@@ -10,10 +10,30 @@ layout: default
 <!-- End Featured Image -->
 
 <div class="col-lg-8 mx-auto">
+  <style type="text/css">
+    #grey_subtitle > h2{
+      font-weight: 400;
+      font-size: 15px;
+      color: #999;
+    }
+    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+  </style>
 
   <div class="mainheading">
     <h1 class="posttitle">{{ page.title }}</h1>
   </div>
+
+  {% if page.subtitles %} 
+  <div id="grey_subtitle">
+    {% assign sortedSubtitles = page.subtitles | sort %}
+    {% for subtitle in sortedSubtitles %}
+    <h2>
+      {{ subtitle }}
+    </h2>
+    {% endfor %}
+  </div>
+  {% endif %}
 
   <div class="article-post serif-font">
     {{content}}

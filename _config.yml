@@ -1,11 +1,12 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Rebecca Micallef Dalli"
+email: dallirebecca@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "/nutrition"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+formspree_contact: 'https://formspree.io/f/xnqwlpnr'
+author: Rebecca Dalli
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -24,28 +25,19 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  rebecca:
+    name: Rebecca
+    display_name: Rebecca Micallef Dalli
+    avatar: 'assets/images/rebecca.jpeg'
+    email: dallirebecca@gmail.com
+    web: https://rebecca.micallefdalli.com
+    twitter: https://twitter.com/micallef_daniel
+    description: "Member of the Association for UK Dieticians, with a M.Sc. in Exercise and Nutrition Science."
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/dallireb/
+  facebook: https://www.facebook.com/RebeccaMicallefDalli
 
 # Plugins
 plugins: 
