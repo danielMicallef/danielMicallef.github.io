@@ -1,5 +1,3 @@
-# Affiliates - Free Jekyll Theme
+# Rebecca Micallef Dalli Sports Nutrition Website
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
+Built using [Affilliates Jekyll Theme](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/).
