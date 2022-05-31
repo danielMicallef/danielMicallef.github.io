@@ -1,7 +1,7 @@
 title: "Rebecca Micallef Dalli"
 email: dallirebecca@gmail.com
 timezone: UTC
-baseurl: "/nutrition"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -36,7 +36,7 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/dallireb/
+  instagram: https://www.instagram.com/reb_mdalli/
   facebook: https://www.facebook.com/RebeccaMicallefDalli
 
 # Plugins
