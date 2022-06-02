@@ -6,7 +6,7 @@ permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 formspree_contact: 'https://formspree.io/f/xnqwlpnr'
-author: Rebecca Dalli
+author: Rebecca Micallef Dalli
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us

@@ -179,8 +179,6 @@ To date, [research shows](https://www.bda.uk.com/resource/the-influence-of-time-
 
 Helpful References; 
 
-
-
 1. Bjerre, N., Holm, L., Quist, J. S., Færch, K., & Hempler, N. F. (2021). Watching, keeping and squeezing time to lose weight: Implications of time-restricted eating in daily life. _Appetite_,_ 161_, 105138. [https://doi.org/10.1016/j.appet.2021.105138](https://doi.org/10.1016/j.appet.2021.105138)
 2. Cava, E., Yeat, N. C., & Mittendorfer, B. (2017). Preserving Healthy Muscle during Weight Loss. _Adv Nutr_,_ 8_(3), 511-519. [https://doi.org/10.3945/an.116.014506](https://doi.org/10.3945/an.116.014506)
 3. Cienfuegos, S., Gabel, K., Kalam, F., Ezpeleta, M., Wiseman, E., Pavlou, V., . . . Varady, K. A. (2020). Effects of 4- and 6-h Time-Restricted Feeding on Weight and Cardiometabolic Health: A Randomized Controlled Trial in Adults with Obesity. _Cell Metab_,_ 32_(3), 366-378.e363. [https://doi.org/10.1016/j.cmet.2020.06.018](https://doi.org/10.1016/j.cmet.2020.06.018)
