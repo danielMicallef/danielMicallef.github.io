@@ -9,6 +9,13 @@ post_class: post-template
 ================================================== -->
 
 	<div class="row">
+        <style type="text/css">
+            #grey_subtitle > h2{
+              font-weight: 400;
+              font-size: 15px;
+              color: #999;
+            }
+      </style>
 		
 
 		<!-- Post -->        
@@ -35,10 +42,18 @@ post_class: post-template
                 
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1>
+                {% if page.subtitles %}
+                  <div id="grey_subtitle">
+                    {% assign sortedSubtitles = page.subtitles | sort %}
+                    {% for subtitle in sortedSubtitles %}
+                    <h2>
+                      {{ subtitle }}
+                    </h2>
+                    {% endfor %}
+                  </div>
+                {% endif %}
 
 			</div>
-
-			
 
 			<!-- Post Content -->
 			<div class="article-post serif-font">
@@ -55,9 +70,7 @@ post_class: post-template
                 {% endif %}
                 </small>
             </p>
-            
-			
-            
+
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
               {% if page.previous.url %}
