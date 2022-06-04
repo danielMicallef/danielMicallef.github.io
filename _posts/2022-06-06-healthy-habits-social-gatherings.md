@@ -6,7 +6,7 @@ categories:
   - Diet
   - Healthy
   - Events
-image: assets/images/blog_images/1.png
+image: assets/images/blog_images/6.png
 published: true
 author: rebecca
 ---
