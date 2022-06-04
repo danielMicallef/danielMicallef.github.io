@@ -1,10 +1,14 @@
 ---
 layout: page
-title: About
-permalink: "/about/"
+title: About Me
+permalink: /about/
 featured_image: false
 image: assets/images/rebecca.jpeg
-subtitles: [ M.Sc. Exercise and Sports Nutrition, Member of Association for UK Dieticians ]
+subtitles:
+  - MSc. Exercise and Nutrition Science
+  - Member of the British Dietetic Association
+  - SENR Registered
+published: true
 ---
 <img
   class="featured-image rounded"
