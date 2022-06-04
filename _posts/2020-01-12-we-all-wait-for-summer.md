@@ -1,11 +1,14 @@
 ---
 layout: post
-title: We all wait for summer
+title: Healthy Habits & Social Gatherings
 categories:
-  - Jekyll
-  - tutorial
-image: assets/images/1.jpg
+  - Social
+  - Diet
+  - Healthy
+  - Events
+image: assets/images/blog_images/5.jpg
 published: true
+author: rebecca
 ---
 ## Does it have to be a salad?
 
