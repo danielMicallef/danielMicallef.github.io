@@ -2,10 +2,15 @@
 layout: page
 title: About
 permalink: "/about/"
+featured_image: false
 image: assets/images/rebecca.jpeg
 subtitles: [ M.Sc. Exercise and Sports Nutrition, Member of Association for UK Dieticians ]
 ---
-
+<img
+  class="featured-image rounded"
+  style="max-height: 500px; width: auto;"
+  src="{{ site.baseurl }}/{{ page.image }}"
+  alt="Rebecca Micallef Dalli">
 
 I believe that a healthy and balanced lifestyle transmutes into a better quality of life. The way to live a healthier lifestyle is by becoming familiar with the nutritional value of different food choices and make small habitual changes, which adds up to a new you. I will create a detailed personalised plan which will help you kickstart this lifelong pursuit for a better quality of life.
 
