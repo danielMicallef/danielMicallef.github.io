@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/about.jpeg
+image: assets/images/rebecca.jpeg
 subtitles: [ M.Sc. Exercise and Sports Nutrition, Member of Association for UK Dieticians ]
 ---
 
