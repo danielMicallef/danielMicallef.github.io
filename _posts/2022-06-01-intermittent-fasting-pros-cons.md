@@ -22,154 +22,34 @@ Since the role of intermittent fasting in weight loss is one of the most common 
 
 <table>
   <tr>
-   <td>PROS
-   </td>
-   <td>CONS
-   </td>
+   <td><strong><i>PROS</i></strong></td>
+   <td><strong><i>CONS</i></strong></td>
   </tr>
   <tr>
    <td>
-<ol>
-
-<li>Improved blood glucose control, blood cholesterol
-</li>
-</ol>
+        <ol>
+            <li>Improved blood glucose control, blood cholesterol</li>
+            <li>Loss of lean muscle mass due to increased risk of low protein intake</li>
+            <li>Weight loss</li>
+            <li>Higher risk of weight regain</li>
+            <li>No need to monitor calories- Simple to follow</li>
+            <li>Difficult long term adherence</li>
+        </ol>
    </td>
    <td>
-<ol>
-
-<li>Loss of lean muscle mass due to increased risk of low protein intake
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<ol>
-
-<li>Weight loss
-</li>
-</ol>
-   </td>
-   <td>
-<ol>
-
-<li>Higher risk of weight regain
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<ol>
-
-<li>No need to monitor calories- Simple to follow
-</li>
-</ol>
-   </td>
-   <td>
-<ol>
-
-<li>Difficult long term adherence
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<ol>
-
-<li>Helps create consistent habits/ daily activities
-</li>
-</ol>
-   </td>
-   <td>
-<ol>
-
-<li>No changes in unhealthy dietary choices - accommodates habitual choices
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<ol>
-
-<li>Reduces oxidative stress + inflammation 
-</li>
-</ol>
-   </td>
-   <td>
-<ol>
-
-<li>Individual may overeat/binge to compensate for the upcoming fasting
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<ol>
-
-<li>Ideal for people with a consistent daily routine - office hours, consistent break time, consistent training times
-</li>
-</ol>
-   </td>
-   <td>
-<ol>
-
-<li>Fasting period increases stress levels
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<ol>
-
-<li>May help limit evening snacking/ emotional eating
-</li>
-</ol>
-   </td>
-   <td>
-<ol>
-
-<li>Difficulty to attend unplanned social events
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ol>
-
-<li>Difficult to adhere to if working inconsistent shift work, always changing pattern, night shifts, inconsistent break times, not able to train always at the same time of the day
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ol>
-
-<li>Need to plan schedules ahead, batch cooking to increase compliance when unplanned events crop up
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ol>
-
-<li>Links found with increased risk of eating disorders, anxiety and depression
-</li>
-</ol>
+        <ol>
+            <li>Helps create consistent habits/ daily activities</li>
+            <li>No changes in unhealthy dietary choices - accommodates habitual choices</li>
+            <li>Reduces oxidative stress + inflammation</li>
+            <li>Individual may overeat/binge to compensate for the upcoming fasting</li>
+            <li>Ideal for people with a consistent daily routine - office hours, consistent break time, consistent training times</li>
+            <li>Fasting period increases stress levels</li>
+            <li>May help limit evening snacking/ emotional eating</li>
+            <li>Difficulty to attend unplanned social events</li>
+            <li>Difficult to adhere to if working inconsistent shift work, always changing pattern, night shifts, inconsistent break times, not able to train always at the same time of the day</li>
+            <li>Need to plan schedules ahead, batch cooking to increase compliance when unplanned events crop up</li>
+            <li>Links found with increased risk of eating disorders, anxiety and depression</li>
+        </ol>
    </td>
   </tr>
 </table>
