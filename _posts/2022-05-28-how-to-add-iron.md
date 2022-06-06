@@ -6,7 +6,7 @@ categories:
   - Iron
   - Supplements
   - Vitamin C
-image: assets/images/blog_images/3.png
+image: assets/images/blog_images/3.webp
 published: true
 ---
 

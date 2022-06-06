@@ -3,7 +3,7 @@ layout: post
 title: "The Secret to a Healthy Heart and Blood Vessels"
 author: rebecca
 categories: [Nuts, Mediterranean Diet, Olive Oil, Healthy Fats, Cardiovascular Health]
-image: assets/images/blog_images/2_1.png
+image: assets/images/blog_images/2_1.webp
 ---
 ## Ever thought that the secret to a healthy heart could lie in your kitchen cupboard?
 

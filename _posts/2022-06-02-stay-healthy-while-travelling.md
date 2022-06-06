@@ -3,7 +3,7 @@ layout: post
 title: "Stay healthy while Travelling"
 author: rebecca
 categories: [Travel, Diet, Healthy, Vacation]
-image: assets/images/blog_images/5.png
+image: assets/images/blog_images/5.webp
 ---
 ## 12 healthy strategies
 

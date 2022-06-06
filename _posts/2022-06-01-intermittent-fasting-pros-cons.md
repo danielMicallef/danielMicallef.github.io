@@ -3,7 +3,7 @@ layout: post
 title: "Intermittent Fasting - PROS and CONS"
 author: rebecca
 categories: [Intermittent Fasting]
-image: assets/images/blog_images/4.png
+image: assets/images/blog_images/4.webp
 ---
 ## Is it good for me? Does it work?
 
