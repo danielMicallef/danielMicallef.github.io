@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "How to Add Iron to your Diet"
+title: 17 Best Food Sources that Increase Iron in your Diet
 author: rebecca
-categories: [Iron, Supplements, Vitamin C]
+categories:
+  - Iron
+  - Supplements
+  - Vitamin C
 image: assets/images/blog_images/3.png
+published: true
 ---
 
 Do you experience periods of generalised tiredness and shortness of breath? You may be suffering from Anaemia - a condition that generally results from **iron deficiency** in the blood. 
