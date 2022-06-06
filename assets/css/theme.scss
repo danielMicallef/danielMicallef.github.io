@@ -233,6 +233,15 @@ small, .small {
     padding: 2px;
     object-fit: cover;
 }
+.avatar-img {
+    object-position: center;
+    width: auto;
+    height: 200px;
+    border-radius: 10%;
+    border: 1px solid #eaeaea;
+    padding: 2px;
+    object-fit: cover;
+}
 .post-top-meta {
 	margin-bottom: 1rem;
     margin-top: 3rem;
