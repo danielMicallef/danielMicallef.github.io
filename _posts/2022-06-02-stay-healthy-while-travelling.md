@@ -4,6 +4,7 @@ title: "Stay healthy while Travelling"
 author: rebecca
 categories: [Travel, Diet, Healthy, Vacation]
 image: assets/images/blog_images/5.webp
+description: "12 Healthy strategies to stay healthy while travelling."
 ---
 ## 12 healthy strategies
 

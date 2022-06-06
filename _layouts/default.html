@@ -3,6 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+{% if page.description %}
+  <meta
+        name="description"
+        content="{{ page.description }}">
+{% else %}
+  <meta
+        name="description"
+        content="Nutritional guides and ideas to help you improve your eating habits.">
+{% endif %}
 <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
 
 <title>{{ page.title }} | {{site.title}}</title>
