@@ -135,8 +135,17 @@ small, .small {
 /* Pages
 ================================================== */
 .hero {
-    background: #fdd93d;
-    padding: 5rem 5rem;
+    background: #24bf91;
+    padding: 5vw 5vw;
+    /* On screens that are 600px or less */
+    @media screen and (max-width: 600px) {
+      padding: 2rem 2rem;
+    }
+
+    /* On screens that are 350px or less */
+    @media screen and (max-width: 350px) {
+      padding: 5rem 2rem 2rem;
+    }
 }
 
 @media only screen and (max-width: 1024px) {
