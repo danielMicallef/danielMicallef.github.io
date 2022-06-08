@@ -8,7 +8,7 @@ favicon: 'assets/images/favicon.ico'
 formspree_contact: 'https://formspree.io/f/xnqwlpnr'
 author: Rebecca Micallef Dalli
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'rebmdsportsnutrition-com'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -21,7 +21,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: G-65WJS2YPX2
 
 # Authors
 authors:
