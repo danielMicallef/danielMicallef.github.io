@@ -1,8 +1,10 @@
-<div class="sidebar sticky-top">        
+<div class="sidebar sticky-top">
+    {% if site.newsletter %}
     <div class="sidebar-section">
         <h5><span>Newsletter</span></h5>
         {% include newsletter.html %}
     </div>
+    {% endif %}
     {% if site.ad %}
     <div class="sidebar-section">
         <h5><span>Your Ad Here</span></h5>
