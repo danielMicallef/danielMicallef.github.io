@@ -38,7 +38,7 @@ image: 'assets/images/logo-large.png'
 <!-- Posts List with Sidebar (except featured)
 ================================================== -->
 <section class="row">
-  <div {% if site.newsletter %}class="col-sm-8" {% else %} class="col-sm-12" {% endif %}>
+  <div class="col-sm-8">
     <div class="row">
       {% for post in paginator.posts %}
       {% unless post.featured == true %}
@@ -55,9 +55,7 @@ image: 'assets/images/logo-large.png'
       </span>
     </div>
   </div>
-  {% if site.newsletter %}
   <div class="col-sm-4">
     {% include sidebar.html %}
   </div>
-  {% endif %}
 </section>
