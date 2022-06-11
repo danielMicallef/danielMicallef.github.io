@@ -1,9 +1,18 @@
 ---
 layout: post
-title: "Diabetes ↔ Fatty Liver"
+title: Diabetes ↔ Fatty Liver
 author: rebecca
-categories: [Diabetes, Diet, Fatty Liver, Sugar, Obesity]
+categories:
+  - Diabetes
+  - Diet
+  - Fatty Liver
+  - Sugar
+  - Obesity
 image: assets/images/blog_images/1.webp
+published: true
+description: >-
+  Both fatty liver and diabetes are metabolic diseases that can be reversed
+  using exercise and diet.
 ---
 ## Consequence or cause?
 It’s no secret that Malta keeps topping the lists for obesity and diabetes rates in EU, with almost a [third](https://data.worldobesity.org/country/malta-133/) of the population obese and a [tenth](https://idf.org/our-network/regions-members/europe/members/149-malta.html) of the population suffering from Type 2 diabetes.
