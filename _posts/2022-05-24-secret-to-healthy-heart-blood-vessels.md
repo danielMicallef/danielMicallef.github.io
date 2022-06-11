@@ -89,3 +89,5 @@ Here are my **top 5 tips** on how to incorporate nuts/olive oil in your diet.
 ## Notes
 
 [^1]: This article is based on the research findings of Estruch, R., Ros, E., Salas-Salvadó, J., Covas, M., Corella, D., & Arós, F. et al. (2013), in their study on the  Primary Prevention of Cardiovascular Disease with a Mediterranean Diet  and Martínez-González, M., Salas-Salvadó, J., Estruch, R., Corella, D., Fitó, M., & Ros, E. (2015), that looked at the Benefits of the Mediterranean Diet. The 2016 Maltese Dietary Guidelines published by the Health Promotion & Disease Prevention Directorate within the Ministry for Health, were used as a guidance for the nutritional advice provided.
+
+Thank you for reading ! If you would like more tips get in [contact](/contact) with me to get started.
