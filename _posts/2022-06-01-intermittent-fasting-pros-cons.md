@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Intermittent Fasting - PROS and CONS"
+title: Intermittent Fasting - PROS and CONS
 author: rebecca
-categories: [Intermittent Fasting]
+categories:
+  - Intermittent Fasting
 image: assets/images/blog_images/4.webp
+published: true
+description: >-
+  Intermittent fasting is the new kid on the block, but there are important
+  considerations that need to be done before embarking on it.
 ---
 ## Is it good for me? Does it work?
 
