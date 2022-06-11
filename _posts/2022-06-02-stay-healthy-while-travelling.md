@@ -1,10 +1,17 @@
 ---
 layout: post
-title: "Stay healthy while Travelling"
+title: Stay healthy while Travelling
 author: rebecca
-categories: [Travel, Diet, Healthy, Vacation]
+categories:
+  - Travel
+  - Diet
+  - Healthy
+  - Vacation
 image: assets/images/blog_images/5.webp
-description: "12 Healthy strategies to stay healthy while travelling."
+description: >-
+  Who doesn't love to travel? Staying healthy may seem difficult but not with
+  these 12 strategies.
+published: true
 ---
 ## 12 healthy strategies
 
@@ -15,8 +22,6 @@ How many of you have tried to diet before your summer vacation, or unexpectedly 
 The key solution to staying on track is learning to incorporate healthy habits in your daily routine so that you manage to carry this lifestyle with you wherever you go with minimal effort. To stay on track and avoid any weight gain, we need to maintain our body in maintenance, that is calories in, calories out. 
 
 Here are my 12 strategies to stay on track whilst traveling; 
-
-
 
 1. Avoid loading up on sweets and crisps from the airport lounge while waiting for your flight, instead think ahead and pack small meals/ snacks to take with you onboard. Opt for some almonds, rice cakes with peanut butter, sliced apples, wholemeal veggie sandwich, protein bar or a wholemeal wrap. 
 2. Do not skip meals - having only 2 big meals a day is not ideal - it might encourage binging in huge portions during breakfast/ dinner. Try to instead have 3 main meals (breakfast, lunch and dinner) with some planned snacks in between. This will enable you to practice portion control and avoid being hangry.
