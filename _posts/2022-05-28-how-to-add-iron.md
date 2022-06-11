@@ -8,6 +8,9 @@ categories:
   - Vitamin C
 image: assets/images/blog_images/3.webp
 published: true
+description: >-
+  Anaemia is a condition that results from iron deficiency in the blood. Here
+  are a few tips to add iron in your diet through natural food sources.
 ---
 
 Do you experience periods of generalised tiredness and shortness of breath? You may be suffering from Anaemia - a condition that generally results from **iron deficiency** in the blood. 
