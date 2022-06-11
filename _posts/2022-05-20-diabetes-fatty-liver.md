@@ -42,4 +42,4 @@ Below are a few tips:
 - **Avoids foods high in saturated fat- Saturated fat intake should be kept to a 10% of the total daily calorie intake. Foods to avoid are fatty cuts of red meat, sausages, butter, coconut oil/cream, chocolate bars, biscuits and cheese particularly cheddar.** 
 - **Keep your intake of refined carbs to a minimum. Avoid white pasta, white rice, white potatoes, white bread, sugary breakfast cereals, potato chips.** 
 
-The take home message is that these metabolic diseases (obesity, diabetes, fatty liver) are all intertwined into the same pathway, all detrimental to the general health of the individual, yet all reversible if the correct action is taken, a little effort is all it takes.
+The take home message is that these metabolic diseases (obesity, diabetes, fatty liver) are all intertwined into the same pathway, all detrimental to the general health of the individual, yet all reversible if the correct action is taken, a little effort is all it takes, get in [contact](/contact) with me to get started.
