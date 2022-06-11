@@ -30,8 +30,7 @@ The menstrual cycle is split up into [2 main phases](https://www.ncbi.nlm.nih.go
 1. The **follicular phase** Day 1- Day 14
 2. The **luteal phase**  Day 15 - Day 28 
 
-![Follicular vs. Luteal Phase]({{ site.baseurl }}/assets/images/blog_images/8.png)
-
+![Menstrual Cycle]({{ site.baseurl }}/assets/images/blog_images/9.png)
 
 ##**Exercise recommendations**
 
@@ -48,6 +47,8 @@ _Luteal Phase _
 Say hi to progesterone, the sex hormone that starts causing havoc to us all. As **progesterone increases** and oestrogen decreases, energy levels start to fluctuate, we feel less energised, experience water retention and[ increased body temperature, and muscle recovery takes longer](https://jissn.biomedcentral.com/articles/10.1186/s12970-021-00422-8). 
 
 Studies have shown that these symptoms may impact exercise performance, hence it was suggested that exercise should be adapted to focus on **low intensity cardio** with a steady pace. We still want to incorporate movement and the luteal phase should not be used as an excuse to not exercise. If doing resistance training, use longer rest periods in between sets and aim for **[low-moderate weight ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5376807/)**and high reps. 
+
+![Follicular vs. Luteal Phase]({{ site.baseurl }}/assets/images/blog_images/8.png)
 
 ##**Nutrition Recommendations**
 
