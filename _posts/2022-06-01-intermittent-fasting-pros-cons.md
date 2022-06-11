@@ -62,6 +62,8 @@ Since the role of intermittent fasting in weight loss is one of the most common 
 
 To date, [research shows](https://www.bda.uk.com/resource/the-influence-of-time-restricted-eating-on-weight-management-and-metabolic-health.html)comparable results of  intermittent fasting to long term moderate calorie restricting diets. The decision to take the intermittent fasting approach, as with any other diet, needs to come from the individual and the person needs to engage with it. The role of the professional is there to help the client identify the potential barriers for it to be sustainable and practical. 
 
+Thank you for reading ! If you would like to discuss further get in [contact](/contact) with me to get started.
+
 Helpful References; 
 
 1. Bjerre, N., Holm, L., Quist, J. S., Færch, K., & Hempler, N. F. (2021). Watching, keeping and squeezing time to lose weight: Implications of time-restricted eating in daily life. _Appetite_,_ 161_, 105138. [https://doi.org/10.1016/j.appet.2021.105138](https://doi.org/10.1016/j.appet.2021.105138)
