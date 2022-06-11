@@ -56,3 +56,6 @@ However, social events/dining experiences don’t have to be frustrating. The fo
 Ultimately, be mindful that one day of enjoying social eating is not going to ruin your entire diet. It’s a balance between enjoying food and making the right choices, no need to be on the extreme ends of the spectrum. For example if going out for your birthday dinner, you may still have a slice of cake, compensate by making healthy food choices throughout the day instead. 
 
 Healthy habits don’t have to be boring, you just have to learn how to  strike a balance.
+
+Do you need more tips to achieve your goals? 
+Get in [contact](/contact) with me to get started.
