@@ -1,9 +1,18 @@
 ---
 layout: post
-title: "The Secret to a Healthy Heart and Blood Vessels"
+title: The Secret to a Healthy Heart and Blood Vessels
 author: rebecca
-categories: [Nuts, Mediterranean Diet, Olive Oil, Healthy Fats, Cardiovascular Health]
+categories:
+  - Nuts
+  - Mediterranean Diet
+  - Olive Oil
+  - Healthy Fats
+  - Cardiovascular Health
 image: assets/images/blog_images/2_1.webp
+published: true
+description: >-
+  Packed with good healthy fats; nuts and olive oil are excellent ingredients
+  for a healthy cardiovascular system.
 ---
 ## Ever thought that the secret to a healthy heart could lie in your kitchen cupboard?
 
@@ -79,4 +88,4 @@ Here are my **top 5 tips** on how to incorporate nuts/olive oil in your diet.
 
 ## Notes
 
-[^1]: This article is based on the research findings of Estruch, R., Ros, E., Salas-Salvadó, J., Covas, M., Corella, D., & Arós, F. et al. (2013), in their study on the  Primary Prevention of Cardiovascular Disease with a Mediterranean Diet  and Martínez-González, M., Salas-Salvadó, J., Estruch, R., Corella, D., Fitó, M., & Ros, E. (2015), that looked at the Benefits of the Mediterranean Diet. The 2016 Maltese Dietary Guidelines published by the Health Promotion & Disease Prevention Directorate within the Ministry for Health, were used as a guidance for the nutritional advice provided. 
+[^1]: This article is based on the research findings of Estruch, R., Ros, E., Salas-Salvadó, J., Covas, M., Corella, D., & Arós, F. et al. (2013), in their study on the  Primary Prevention of Cardiovascular Disease with a Mediterranean Diet  and Martínez-González, M., Salas-Salvadó, J., Estruch, R., Corella, D., Fitó, M., & Ros, E. (2015), that looked at the Benefits of the Mediterranean Diet. The 2016 Maltese Dietary Guidelines published by the Health Promotion & Disease Prevention Directorate within the Ministry for Health, were used as a guidance for the nutritional advice provided.
