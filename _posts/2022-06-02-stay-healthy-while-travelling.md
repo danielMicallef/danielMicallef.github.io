@@ -35,3 +35,6 @@ Here are my 12 strategies to stay on track whilst traveling;
 10. If you’re not a fan of sports activities, simple habits such as taking the stairs instead of lifts, and trying to incorporate as much walking as possible, can also increase the daily energy expenditure. If traveling by car, park in cheaper outer car parks and walk to the city center. As a bonus, you will be able to explore more on foot!
 11. Drink plenty of water to ensure that you stay hydrated. Pack a reusable water bottle, this way you can easily fill it up and avoid buying plastic bottles. 
 12. Make sure to maintain good sleep hygiene especially if experiencing different time zones, plan resting times during the day and do not rush throughout the whole trip.
+
+Thank you for reading ! Would you like more tips? 
+Get in [contact](/contact) with me to get started.
