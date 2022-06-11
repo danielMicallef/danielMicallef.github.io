@@ -58,3 +58,5 @@ To calculate the [daily iron requirements](https://www.bda.uk.com/resource/iron-
   * Males 19+ years = 8.7mg/day
   * Females 11-50 years (@premenopause) = 14.8mg/day
   * Females 50+ years (@postmenopause) = 8.7mg/day
+  
+If you would like to learn more about supplements get in [contact](/contact) with me to get started.
