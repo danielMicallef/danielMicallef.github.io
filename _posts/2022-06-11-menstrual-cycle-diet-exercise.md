@@ -84,3 +84,6 @@ _So, to help you fight off your cravings and take advantage of how your body wor
 Always listen to your body and see what you feel like. This content is intended to help you understand your body better in terms of your natural cycle, and how it interacts with your performance and nutrition. Unfortunately, limited research exists examining the impact of the menstrual cycle on female athletes, and are mostly based in laboratory settings or assessed subjectively via questionnaires, so **strong evidence is still lacking. **
 
 **If you feel like exercising more, by no means this should not stop you ** from doing so. However, if you do not feel energised to train, rather than not training or giving in to your cravings, **adapt the intensity** of your workout accordingly and **choose food wisely** to fuel your needs. A better understanding of the relationship between the menstrual cycle, sports performance and nutrition will ultimately provide a possible performance advantage for females.
+
+Do you think you would benefit from adapting your training and nutrition?
+Get in [contact](/contact) with me to get started.
