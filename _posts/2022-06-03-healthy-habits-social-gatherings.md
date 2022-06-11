@@ -9,6 +9,9 @@ categories:
 image: assets/images/blog_images/6.webp
 published: true
 author: rebecca
+description: >-
+  Social events can be one of the greatest perceived bariers to healthy eating.
+  Here are my tips to survive your next social event.
 ---
 ## Does it have to be a salad?
 
@@ -52,4 +55,4 @@ However, social events/dining experiences don’t have to be frustrating. The fo
 
 Ultimately, be mindful that one day of enjoying social eating is not going to ruin your entire diet. It’s a balance between enjoying food and making the right choices, no need to be on the extreme ends of the spectrum. For example if going out for your birthday dinner, you may still have a slice of cake, compensate by making healthy food choices throughout the day instead. 
 
-Healthy habits don’t have to be boring, you just have to learn how to  strike a balance. 
+Healthy habits don’t have to be boring, you just have to learn how to  strike a balance.
