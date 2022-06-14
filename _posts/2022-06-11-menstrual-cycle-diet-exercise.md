@@ -14,7 +14,7 @@ description: >-
 ---
 ## How does our menstrual cycle play with our diet and exercise routine? 
 
-Men and women are different - women are more likely to cry when watching a romantic movie, men less likely, women are generally better suited at multitasking,  men are more single-focused. At a physiological level, the way our hormones interact is also different, resulting  in gender differences when assessing **[exercise performance outcomes](https://www.mdpi.com/1660-4601/19/9/4946/htm)** and **[nutritional needs. ](https://jissn.biomedcentral.com/articles/10.1186/s12970-021-00422-8)**
+Men and women are different - women are more likely to cry when watching a romantic movie, men less likely; women are generally better suited at multitasking,  men are more single-focused. At a physiological level, the way our hormones interact is also different, resulting  in gender differences when assessing **[exercise performance outcomes](https://www.mdpi.com/1660-4601/19/9/4946/htm)** and **[nutritional needs. ](https://jissn.biomedcentral.com/articles/10.1186/s12970-021-00422-8)**
 
 Sex hormones fluctuate during our menstrual cycle, manifesting in periods of sugar cravings, mood swings, and a general feeling of tiredness.
 
