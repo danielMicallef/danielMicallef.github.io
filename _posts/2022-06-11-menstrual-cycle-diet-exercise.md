@@ -35,15 +35,15 @@ The menstrual cycle is split up into [2 main phases](https://www.ncbi.nlm.nih.go
 
 The follicular phase starts off with the **actual period** which typically lasts 3-7 days. On these days oestrogen and progesterone are both at their lowest, and achieving a good workout may seem difficult due to low energy levels and potentially painful cramps. Try to fit **low intensity** yoga, light jogging, pilates or even walking. 
 
-Once the bleeding stops, **oestrogen levels start to increase**. This is the time when you would be feeling the strongest with greater pain tolerance and a greater capacity for muscle build up and repair. Hence take the advantage of this period in your cycle to focus more on [lifting heavy weights ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4236309/)and incorporating **high intensity** workouts. If you are following a training programme, aim to target your personal bests around this time. 
+Once the bleeding stops, **oestrogen levels start to increase**. This is the time when you would be feeling the strongest with greater pain tolerance and greater capacity for muscle build up and repair. Hence take the advantage of this by focusing more on [lifting heavy weights ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4236309/)and incorporating **high intensity** workouts. If you are following a training programme, aim to target your personal bests around this time. 
 
 **Ovulation** marks mid-cycle between the follicular and luteal phase and usually lasts 1-2 days. Oestrogen would still be high and you would be typically experiencing high energy levels. If bloating/pain does not impede you from training, you should still be able to perform at high intensity levels. 
 
 ### _Luteal Phase_
 
-Say hi to progesterone, the sex hormone that starts causing havoc to us all. As **progesterone increases** and oestrogen decreases, energy levels start to fluctuate, we feel less energised, experience water retention and[ increased body temperature, and muscle recovery takes longer](https://jissn.biomedcentral.com/articles/10.1186/s12970-021-00422-8). 
+Say hi to progesterone, the sex hormone that wrecks havoc to us all. As **progesterone increases** and oestrogen decreases, energy levels start to fluctuate, we feel less energised, experience water retention and[ increased body temperature, and muscle recovery takes longer](https://jissn.biomedcentral.com/articles/10.1186/s12970-021-00422-8). 
 
-Studies have shown that these symptoms may impact exercise performance, hence it was suggested that exercise should be adapted to focus on **low intensity cardio** with a steady pace. We still want to incorporate movement and the luteal phase should not be used as an excuse to not exercise. If doing resistance training, use longer rest periods in between sets and aim for **[low-moderate weight ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5376807/)**and high reps. 
+Studies have shown that these symptoms may impact exercise performance, hence exercise should be adapted to focus on **low intensity cardio** with a steady pace. We still want to incorporate movement and the luteal phase should not be used as an excuse to not exercise. If doing resistance training, use longer rest periods in between sets and aim for **[low-moderate weight ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5376807/)**and high reps. 
 
 ![Follicular vs. Luteal Phase]({{ site.baseurl }}/assets/images/blog_images/8.png)
 
