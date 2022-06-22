@@ -47,7 +47,7 @@ Therefore, to investigate this theory, Dr. Neil Barnard, founder of the [Physici
 
 ![Plant Based Diet]({{ site.baseurl }}/assets/images/blog_images/11.png)
 
-So whether you are blood type A, O or any other, the [best way to be healthy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2773291) is to **[eat a balanced diet]**(https://www.sciencedirect.com/science/article/pii/S2212267220311977)that **includes plenty of fruits, vegetables, whole grains, and lean protein** as [all individuals benefited from a plant based diet.](https://academic.oup.com/jn/article/148/4/518/4965915?login=true)
+So whether you are blood type A, O or any other, the [best way to be healthy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2773291) is to **[eat a balanced diet]**(https://www.sciencedirect.com/science/article/pii/S2212267220311977) that **includes plenty of fruits, vegetables, whole grains, and lean protein** as [all individuals benefited from a plant based diet.](https://academic.oup.com/jn/article/148/4/518/4965915?login=true)
 
 D’Adamo’s theory that blood should determine what you should eat or not eat was therefore **debunked** and shown to be untrue. Following the blood-type diet will not alter your risks for cardiometabolic diseases, a **plant based diet will, and it is recommended for all blood types.** 
 
