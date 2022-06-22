@@ -43,11 +43,11 @@ Therefore, to investigate this theory, Dr. Neil Barnard, founder of the [Physici
 
 **if D’Adamo's theory were to be true, if you were to place an individual with Blood type A diet and blood type O diet on the same plant-based diet, those having blood type A would do significantly better than those with blood type O (meat-eaters).** 
 
-**This was found to be untrue**, since **both blood types experienced significant weight loss** after 16-weeks of diet intervention with an average body weight change of –5.7 kg for blood type A participants and –7.1 kg for type O participants. Moreover, after 16 weeks following a low-fat vegan diet,**all blood types improved their overall LDL cholesterol and fasting glucose levels on a plant-based diet. **
+**This was found to be untrue**, since **both blood types experienced significant weight loss** after 16-weeks of diet intervention with an average body weight change of –5.7 kg for blood type A participants and –7.1 kg for type O participants. Moreover, after 16 weeks following a low-fat vegan diet,**all blood types improved their overall LDL cholesterol and fasting glucose levels on a plant-based diet.**
 
 ![Plant Based Diet]({{ site.baseurl }}/assets/images/blog_images/11.png)
 
-So whether you are blood type A, O or any other, the [best way to be healthy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2773291)is to **[eat a balanced diet]**(https://www.sciencedirect.com/science/article/pii/S2212267220311977)that **includes plenty of fruits, vegetables, whole grains, and lean protein** as [all individuals benefited from a plant based diet.](https://academic.oup.com/jn/article/148/4/518/4965915?login=true)
+So whether you are blood type A, O or any other, the [best way to be healthy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2773291) is to **[eat a balanced diet]**(https://www.sciencedirect.com/science/article/pii/S2212267220311977)that **includes plenty of fruits, vegetables, whole grains, and lean protein** as [all individuals benefited from a plant based diet.](https://academic.oup.com/jn/article/148/4/518/4965915?login=true)
 
 D’Adamo’s theory that blood should determine what you should eat or not eat was therefore **debunked** and shown to be untrue. Following the blood-type diet will not alter your risks for cardiometabolic diseases, a **plant based diet will, and it is recommended for all blood types.** 
 
