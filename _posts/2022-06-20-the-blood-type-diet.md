@@ -7,7 +7,7 @@ categories:
   - Blood Type Diet
   - Plant Based Diet
   - Nutrition Research
-image: assets/images/blog_images/10.png
+image: assets/images/blog_images/10.webp
 author: rebecca
 description: >-
   For years the Blood type diet gained popularity, however it lacked scientific
@@ -45,7 +45,7 @@ Therefore, to investigate this theory, Dr. Neil Barnard, founder of the [Physici
 
 **This was found to be untrue**, since **both blood types experienced significant weight loss** after 16-weeks of diet intervention with an average body weight change of –5.7 kg for blood type A participants and –7.1 kg for type O participants. Moreover, after 16 weeks following a low-fat vegan diet,**all blood types improved their overall LDL cholesterol and fasting glucose levels on a plant-based diet.**
 
-![Plant Based Diet]({{site.baseurl}}/assets/images/blog_images/11.png)
+![Plant Based Diet]({{site.baseurl}}/assets/images/blog_images/11.webp)
 
 So whether you are blood type A, O or any other, the [best way to be healthy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2773291) is to [eat a balanced diet](https://www.sciencedirect.com/science/article/pii/S2212267220311977) that **includes plenty of fruits, vegetables, whole grains, and lean protein** as [all individuals benefited from a plant based diet.](https://academic.oup.com/jn/article/148/4/518/4965915?login=true)
 

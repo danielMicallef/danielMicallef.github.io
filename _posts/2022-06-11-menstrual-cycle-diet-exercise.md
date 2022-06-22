@@ -6,7 +6,7 @@ categories:
   - Nutrition
   - Females
   - Diet
-image: assets/images/blog_images/7.png
+image: assets/images/blog_images/7.webp
 author: rebecca
 description: >-
   Knowing how your hormones shift during your cycle can help you adapt your
@@ -27,7 +27,7 @@ The menstrual cycle is split up into [2 main phases](https://www.ncbi.nlm.nih.go
 1. The **follicular phase** Day 1- Day 14
 2. The **luteal phase**  Day 15 - Day 28 
 
-![Menstrual Cycle]({{ site.baseurl }}/assets/images/blog_images/9.png)
+![Menstrual Cycle]({{ site.baseurl }}/assets/images/blog_images/9.webp)
 
 ## Exercise recommendations
 
@@ -45,7 +45,7 @@ Say hi to progesterone, the sex hormone that wrecks havoc to us all. As **proges
 
 Studies have shown that these symptoms may impact exercise performance, hence exercise should be adapted to focus on **low intensity cardio** with a steady pace. We still want to incorporate movement and the luteal phase should not be used as an excuse to not exercise. If doing resistance training, use longer rest periods in between sets and aim for **[low-moderate weight ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5376807/)**and high reps. 
 
-![Follicular vs. Luteal Phase]({{ site.baseurl }}/assets/images/blog_images/8.png)
+![Follicular vs. Luteal Phase]({{ site.baseurl }}/assets/images/blog_images/8.webp)
 
 ## Nutrition Recommendations
 
