@@ -24,7 +24,7 @@ D’Adamo’s theory, states that people with **blood type A** should eat a **ve
 
 However, D’Adamo failed to back these claims and the theory has been debunked by the scientific community due to a lack of evidence supporting the idea that your blood type has anything to do with how your body processes food.
 
-**So what does research state about blood type diets and how has D’Adamo’s theory been debunked? **
+**So what does research state about blood type diets and how has D’Adamo’s theory been debunked?**
 
 There are four main blood types: A, B, AB, and O. 
 
