@@ -14,7 +14,6 @@ description: >-
   evidence to back up its claims. Latest studies have in fact debunked the blood
   type diet and recommended a plant based diet instead.
 ---
-# **The Blood Type Diet**
 ## **Debunked**
 
 I am often asked whether blood type diets are a thing. Each year there’s a new popular diet on social media platforms, promoting fast drastic weight loss, however much like many other fad diets, the [blood type diet lacks scientific evidence](https://www.bda.uk.com/resource/fad-diets.html) and I’ve gathered the research to make you understand why. 
