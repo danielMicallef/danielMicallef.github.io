@@ -13,11 +13,12 @@ categories:
   - Cardiovascular Health
 image: assets/images/blog_images/2_1.webp
 ---
-## Grocery shopping may feel intimidating for those seeking to change their usual list to a healthier one. Here are a few tips to help you steer your way through the aisles. 
+## Grocery shopping may feel intimidating for those seeking to change their usual list to a healthier one. 
+### Here are a few tips to help you steer your way through the aisles. 
 
 You may well be motivated to change your lifestyle and start eating healthy, but unless you get rid of the crisps and sweets peaking through your pantry, the goal may seem harder to commit to. Wisely choosing what to put in your trolley whilst grocery shopping will be your first step towards changing your eating habits. 
 
-### Here is my list with 8 staple foods that should always make it to your trolley. 
+### 8 staple foods that should always make it to your trolley. 
 
 1.Fruits & Vegetables
 ![Fruit and Vegetables]({{ site.baseurl }}/assets/images/blog_images/13.png)
