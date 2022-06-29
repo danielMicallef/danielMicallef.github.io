@@ -31,7 +31,7 @@ Choose a variety of vegetables to make sure that [half the plate is always full 
 2. **Nuts**
 
     ![Nuts]({{ site.baseurl }}/assets/images/blog_images/14.webp)
-Swap your snacks with **nuts**. You can opt for nut butters such as hazelnut, peanut and almond butters. When ading nuts to your meals, be conscious of your portion. 3 walnuts yield 83kcal, 6 almonds yield 35 kcal, 1 tablespoon peanut butter, 109 kcals. So you might ask, so why eat nuts? 
+Swap your snacks with **nuts**. You can opt for nut butters such as hazelnut, peanut and almond butters. When adding nuts to your meals, be conscious of your portion. 3 walnuts yield 83kcal, 6 almonds yield 35 kcal, 1 tablespoon peanut butter, 109 kcals. So you might ask, so why eat nuts? 
 
     Nuts, in moderation are excellent sources of antioxidants, anti-inflammatories, and fibre. Additionally they have shown to [aid weightloss, lower 'bad' cholesterol, decrease your risk of heart disease and improve blood sugar levels](https://www.nejm.org/doi/full/10.1056/nejmoa1800389). Read my article on the [benefits of nuts](https://rebmdsportsnutrition.com/secret-to-healthy-heart-blood-vessels/) to find out more. 
 
@@ -50,7 +50,7 @@ Do not fear carbs in [wholegrains](https://www.bda.uk.com/resource/wholegrains.h
 5. **Eggs**
 
     ![Eggs]({{ site.baseurl }}/assets/images/blog_images/17.webp)
-1 egg contains 8g of protein, making **eggs** an excellent protein source. They can be cooked in many ways and incorporated into salads, omelettes and as binding and coating agents. Apart from protein eggs provide [vitamins A, D  and B](https://www.emerald.com/insight/content/doi/10.1108/00346651011043961/full/html); important for vision, optimal immune function and healthy bones.  
+1 egg contains 8g of protein, making **eggs** an excellent protein source. They can be cooked in many ways and incorporated into salads, omelettes and as binding and coating agents. Apart from protein, eggs provide [vitamins A, D  and B](https://www.emerald.com/insight/content/doi/10.1108/00346651011043961/full/html); important for vision, optimal immune function and healthy bones.  
 
 6. **Dairy**
 
