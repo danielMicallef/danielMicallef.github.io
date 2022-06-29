@@ -3,7 +3,9 @@ published: true
 layout: post
 author: rebecca
 subtitles:
-  - Grocery shopping may feel intimidating for those seeking to change their habits. Here are a few tips to help you steer your way through the aisles.
+  - >-
+    Grocery shopping may feel intimidating for those seeking to change their
+    habits. Here are a few tips to help you steer your way through the aisles.
 categories:
   - Nuts
   - Mediterranean Diet
@@ -13,7 +15,7 @@ categories:
   - Lean Proteins
   - Legumes
   - Cardiovascular Health
-image: assets/images/blog_images/2_1.webp
+image: assets/images/blog_images/12.webp
 ---
 
 You may well be motivated to change your lifestyle and start eating healthy, but unless you get rid of the crisps and sweets peaking through your pantry, the goal may seem harder to commit to. Wisely choosing what to put in your trolley whilst grocery shopping will be your first step towards changing your eating habits. 
