@@ -15,7 +15,7 @@ categories:
   - Snacking
 image: assets/images/blog_images/21_1.png
 ---
-### Hiking Nutrition
+### Hiking Nutrition - My experience with tried and tested tips
 
 Back from 4 days of hiking, an excellent mind and body boost and why not use my own experience to write about my diet as a hiker.
 
