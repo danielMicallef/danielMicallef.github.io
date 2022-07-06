@@ -3,7 +3,7 @@ published: true
 layout: post
 author: rebecca
 subtitles:
-  - 'Hiking '
+  - Hiking Nutrition
 categories:
   - Backpacking
   - Hiking
