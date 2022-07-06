@@ -16,7 +16,7 @@ Back from 4 days of hiking, an excellent mind and body boost and why not use my 
 
 **With great views comes great effort.**
 
-To get a glimpse of the amazing views we had to hike up the not so friendly steep trails. Without proper nutrition and hydration, the body starts to feel weakened and tired making it difficult to do such hikes. 
+To get a glimpse of the amazing views we had to hike up the not-so-friendly steep trails. Without proper nutrition and hydration, the body starts to feel weakened and tired making it difficult to do such hikes. 
 So whether you’re planning your next multi day hike in a national park, or a quick walk up your nearest hill/peak make sure that you have **a proper nutrition plan and enough water to cover your trek.** 
 
 The **more a person weighs**, the **higher the calorie burn**. Hikers typically burn between [**500 to 750 kcals**](https://cdn-links.lww.com/permalink/mss/a/mss_43_8_2011_06_13_ainsworth_202093_sdc1.pdf) per hour of walking, exerting great demands on their body’s energy stores. Because you’re moving at a lower intensity then you would be if cycling or running, you’re more likely to be relying on fat and protein rather than carbohydrates as your fuel source. 
