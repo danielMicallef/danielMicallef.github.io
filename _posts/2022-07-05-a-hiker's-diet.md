@@ -3,10 +3,7 @@ published: true
 layout: post
 author: rebecca
 subtitles:
-  - >-
-    Whether you’re planning your next multi day hike in a national park, or a
-    quick walk up your nearest hill/peak make sure that you have a proper
-    nutrition plan and enough water to cover your trek. 
+  - 'Hiking '
 categories:
   - Backpacking
   - Hiking
@@ -15,8 +12,6 @@ categories:
   - Snacking
 image: assets/images/blog_images/21_1.png
 ---
-### Hiking nutrition; my experience with tried and tested tips
-
 Back from 4 days of hiking, an excellent mind and body boost and why not use my own experience to write about my diet as a hiker.
 
 **With great views comes great effort.**
@@ -43,13 +38,12 @@ Here’s my recommended list for a bulletproof experience up in the mountains;
 10. Water
 
 **Equipment** needed (mostly for multi-day hikes);
-Cooking pot 
-Bowl
-Fork, knife, spoon
-Enamel Mugs 
-Hydration bladder pack 
-Small stove (Gas + fitting)  
-Small garbage bag - Leave no trace! Daniel and I make sure to follow the Leave No Trace principles for minimum impact hiking - make sure to have a look at them before hiking. 
+1. Cooking pot 
+2. Bowl
+3. Fork, knife, spoon
+4. Enamel Mugs 
+5. Hydration bladder pack 
+6. Small stove (Gas + fitting)  7. Small garbage bag - Leave no trace! Daniel and I make sure to follow the [Leave No Trace](https://lnt.org/why/7-principles/) principles for minimum impact hiking - make sure to have a look at them before hiking. 
 
 ![A Hiker's Diet]({{ site.baseurl }}/assets/images/blog_images/21_3.png)
 
@@ -91,4 +85,3 @@ After reading these careful considerations, I can assure you that mountain hikin
 
 To help you get started with your hiking plan, you can use the layout below for your next hike. Do not hesitate to [contact](/contact) me if you need any further tips regarding hiking and your nutrition strategy. Enjoy! 
 ![Things to consider when hiking]({{ site.baseurl }}/assets/images/blog_images/21_4.png)
-
