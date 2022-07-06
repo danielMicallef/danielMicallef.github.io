@@ -43,7 +43,8 @@ Here’s my recommended list for a bulletproof experience up in the mountains;
 3. Fork, knife, spoon
 4. Enamel Mugs 
 5. Hydration bladder pack 
-6. Small stove (Gas + fitting)  7. Small garbage bag - Leave no trace! Daniel and I make sure to follow the [Leave No Trace](https://lnt.org/why/7-principles/) principles for minimum impact hiking - make sure to have a look at them before hiking. 
+6. Small stove (Gas + fitting)
+7. Small garbage bag - Leave no trace! Daniel and I make sure to follow the [Leave No Trace](https://lnt.org/why/7-principles/) principles for minimum impact hiking - make sure to have a look at them before hiking. 
 
 ![A Hiker's Diet]({{ site.baseurl }}/assets/images/blog_images/21_3.png)
 
