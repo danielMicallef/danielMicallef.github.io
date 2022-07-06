@@ -12,7 +12,7 @@ categories:
   - Snacking
 image: assets/images/blog_images/21_1.png
 ---
-Back from 4 days of hiking, an excellent mind and body boost and why not use my own experience to write about my diet as a hiker.
+Back from 4 days of hiking, an excellent mind and body boost and why not use my own experience to write about hiking nutrition. 
 
 **With great views comes great effort.**
 
