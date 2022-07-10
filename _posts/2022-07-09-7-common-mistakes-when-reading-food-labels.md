@@ -32,7 +32,7 @@ Knowing what to look for in a nutrition label is important to make your experien
 
 Here’s what you need to consider; 
 
-### Serving Size 
+### 1.Serving Size 
 Knowing how many servings are in a packet of crisps is important to identify how many calories you would be consuming if you dive in the whole packet whilst watching your favourite series. 
 Consider the packet of crisps below as an example.
 
@@ -49,7 +49,7 @@ As a Rule;
 
 Not paying attention to the serving sizes can easily lead to overeating. This is one of the commonest ways people tend to overeat when following a diet,  since they fail to notice from where the surplus calories are originating. 
 
-### Sugar
+### 2.Sugar
 
 Not all sugar is the same. 
 
@@ -65,17 +65,18 @@ Sugars are usually listed as total sugars underneath the carbohydrate content.
 
 ![Sugar]({{ site.baseurl }}/assets/images/blog_images/22_7.png)
 
-### Carbohydrates
+### 3.Carbohydrates
 Fibre and sugars are usually listed as part of the carbohydrate content. Noting whether the majority of the carbohydrates originate from fibre or from sugar is important. 
 As a general rule, **the higher the fibre and the lower the sugar content**, the better. Fibre is usually found naturally in wholegrains, fruit and vegetables. 
 
-### Gluten Free is healthy
+### 4.Gluten Free is healthy
 
 ![GF]({{ site.baseurl }}/assets/images/blog_images/22_8.png)
+
 This is not true. Many marketing strategies used the term “gluten-free” to sell their item as the healthier option with respect to their competitors. For example, a bag of apples is naturally gluten-free, however food industries have used the gluten-free label even on foods that are obviously gluten free to make them more attractive and sometimes pricier. 
 **If you’re not suffering from coeliac disease or are gluten intolerant, then you do not need to opt for gluten free foods.** In order to replace gluten in bread, manufacturers often add corn syrup or sugar instead, so be careful, gluten free options might not aid your waist line. 
 
-Saturated fats 
+### 5.Saturated fats 
 Fats are split into saturated and unsaturated fats. Saturated fats originate from meat and dairy products, whereas unsaturated fats are from plant origin. Food labels list the total fat content together with its saturated portion as a subgroup. Ocassionally some food labels also list [trans fats](https://www.bda.uk.com/resource/fat.html)  - these are usually added in processed and hardened vegetable fats which are used in cakes, biscuits and fast foods to prolong their shelf life. When grocery shopping we should look for foods that are low in saturated fat and trans fats since both types of fats have shown have shown that they contribute to increased risk of heart disease, weight gain and stroke. 
 
 The image below shows the nutrition label of unsweetened almond milk; 
@@ -92,10 +93,10 @@ As a general rule, the lower the saturated fat portion of the total fats, the hi
 
 If a food item contains;
 
-- **More than 5g** of saturated fat per 100g- **high** in saturated fats
-- **1.5g or less** of saturated fats per 100g - **low** in saturated fats
+- **More than 5g** of saturated fat per 100g -> **high** in saturated fats
+- **1.5g or less** of saturated fats per 100g -> **low** in saturated fats
 
-### % Recommended Intake (RI) / Daily Recommended Value (DRV) 
+### 6.% Recommended Intake (RI) / Daily Recommended Value (DRV) 
 
 % RI/DRV indicates **what percentage of your daily nutritional needs** is being provided by the food item. 
 As an example, a cup of 240ml whole milk provides 10% of the individual’s daily need for fat and 30% of the individual's daily need for calcium. 
@@ -104,7 +105,7 @@ As an example, a cup of 240ml whole milk provides 10% of the individual’s dail
 
 However, note that **% RI/DRV is based on a 2000kcal diet** not your individual needs. So, if you are eating less than 2000kcal, your %DRV will be higher than what you see on the label. If you are eating more calories, the %DRV will be lower. In order for the %DRV to be practical,  you need to know exactly how many calories you are consuming. To avoid having to do these calculations, I recommend using fitness apps to log in your diet, and they will automatically calculate your %DRVs.
 
-### Protein 
+### 7.Protein 
 
 Foods high in protein will help you function **smoother for longer**. 
 Protein helps increase your **satiety**, keeping you fuller for longer, promote **muscle repair** and maintain **energy levels**. Many weight loss diets recommend looking for protein on nutrition labels, and choosing foods that have a hgih portion of their calories coming from it. 
