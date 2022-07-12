@@ -56,7 +56,7 @@ Not all sugar is the same.
 
 ![Sugar]({{ site.baseurl }}/assets/images/blog_images/22_6.png)
 
-Foods like milk  and fruits contain natural sugars (lactose/fructose) together with other nutrients. [Added sugars](https://www.bda.uk.com/resource/sugar.html) on the other hand, are added to food in the form of **table sugar, corn syrup and dextrose**.
+Foods like milk and fruits contain natural sugars (lactose/fructose) together with other nutrients. [Added sugars](https://www.bda.uk.com/resource/sugar.html) on the other hand, are added to food in the form of **table sugar, corn syrup and dextrose**.
 
 If a food item contains;
 - **More than 22.5g** of total sugars per 100g -> item **high** in sugar
