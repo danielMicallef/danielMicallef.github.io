@@ -31,7 +31,10 @@ Knowing what to look for in a nutrition label is important to make your experien
 Here’s what you need to consider; 
 
 ### 1.Serving Size 
-Knowing how many servings are in a packet of crisps is important to identify how many calories you would be consuming if you dive in the whole packet whilst watching your favourite series. 
+**Know how many servings are in a whole packet** 
+
+This will allow you to be mindful of the total calories you are going to eat if you dive in to a whole packet of crisps while watching your favourite series. 
+
 Consider the packet of crisps below as an example.
 
 ![Packet of Crisps]({{ site.baseurl }}/assets/images/blog_images/22_8.png)
