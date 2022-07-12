@@ -15,8 +15,6 @@ If you’re rushing through the grocery aisles, choosing your food items based o
 
 Labels such as “high in protein”, “gluten free” or “fat free” seem worthy of your diet.
 
-![Food Labels]({{ site.baseurl }}/assets/images/blog_images/22_1.png)
-
 Not so fast. 
 
 Take time to read the nutrition labels found on the front and back of your packaged foods. As a general rule, the more packaged and easier to cook things are, the more processed the item is, so steer away from them and try to choose fresh foods that don’t even have a label, such as fruit and vegetables, no labels, less time trying to interpret them. 
@@ -118,7 +116,4 @@ An excellent example is this food label below showing **11gr of protein per 100g
 For average-weight adults it is recommended that women consume [~45g protein/day and men ~56g protein/day](https://www.nutrition.org.uk/healthy-sustainable-diets/protein/?level=Health%20professional#:~:text=The%20Reference%20Nutrient%20Intake%20(RNI)%20for%20protein%20for%20adults%20is,(75%20and%2060kg%20respectively).). To find out what you specifically require, multiply **0.75g of protein x your bodyweight in kg**, to know how much protein you require daily. 
 
 
-These tips aimed to help you understand better different parts of a nutrition label. Not all labels are presented in the same way, but knowing the terms might help you understand them better. If you need any more information or guidance with your nutrition label reading, do not hesitate to leave me a message on my [contact](/contact) page. 
-
-
-
+These tips aimed to help you understand better different parts of a nutrition label. Not all labels are presented in the same way, but knowing the terms might help you understand them better. If you need any more information or guidance with your nutrition label reading, do not hesitate to leave me a message on my [contact](/contact) page.
