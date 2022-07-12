@@ -17,7 +17,7 @@ Labels such as “high in protein”, “gluten free” or “fat free” seem w
 
 Not so fast. 
 
-Take time to read the nutrition labels found on the front and back of your packaged foods. As a general rule, the more packaged and easier to cook things are, the more processed the item is, so steer away from them and try to choose fresh foods that don’t even have a label, such as fruit and vegetables, no labels, less time trying to interpret them. 
+Take time to read the nutrition labels found on the front and back of your packaged foods. As a general rule, the more packaged and easier to cook, the more processed the item is, so steer away from them and try to choose fresh foods that don’t even have a label, such as fruit and vegetables.
 
 However if you do try to read your nutrition labels, make sure you know the nutrients that you should be cautious of such as; 
 - **Salt**
