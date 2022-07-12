@@ -19,7 +19,7 @@ Not so fast.
 
 Take time to read the nutrition labels found on the front and back of your packaged foods. As a general rule, the more packaged and easier to cook, the more processed the item is, so steer away from them and try to choose fresh foods that don’t even have a label, such as fruit and vegetables.
 
-However if you do try to read your nutrition labels, make sure you know the nutrients that you should be cautious of such as; 
+However if you do try to read your nutrition labels, make sure you know which nutrients you should be cautious of, such as; 
 - **Salt**
 - **Sugar**
 - **Fats**
