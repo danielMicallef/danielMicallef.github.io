@@ -70,11 +70,11 @@ Sugars are usually listed as total sugars underneath the carbohydrate content.
 Fibre and sugars are usually listed as part of the carbohydrate content. Noting whether the majority of the carbohydrates originate from fibre or from sugar is important. 
 As a general rule, **the higher the fibre and the lower the sugar content**, the better. Fibre is usually found naturally in wholegrains, fruit and vegetables. 
 
-### 4.Gluten Free is healthy
+### 4.Gluten Free - is it the healthier option?
 
 ![GF]({{ site.baseurl }}/assets/images/blog_images/22_9.png)
 
-This is not true. Many marketing strategies used the term “gluten-free” to sell their item as the healthier option with respect to their competitors. For example, a bag of apples is naturally gluten-free, however food industries have used the gluten-free label even on foods that are obviously gluten free to make them more attractive and sometimes pricier. 
+You **do not need** to choose gluten free items as a healthier option. This is **not** true. Many marketing strategies used the term “gluten-free” to sell their item as the healthier option with respect to their competitors. For example, a bag of apples is naturally gluten-free, however food industries have used the gluten-free label even on foods that are obviously gluten free to make them more attractive and sometimes pricier. 
 **If you’re not suffering from coeliac disease or are gluten intolerant, then you do not need to opt for gluten free foods.** In order to replace gluten in bread, manufacturers often add corn syrup or sugar instead, so be careful, gluten free options might not aid your waist line. 
 
 ### 5.Saturated fats 
