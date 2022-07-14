@@ -109,7 +109,7 @@ However, note that **% RI/DRV is based on a 2000kcal diet** not your individual 
 ### 7.Protein 
 
 Foods high in protein will help you function **smoother for longer**. 
-Protein helps increase your **satiety**, keeping you fuller for longer, promote **muscle repair** and maintain **energy levels**. Many weight loss diets recommend looking for protein on nutrition labels, and choosing foods that have a hgih portion of their calories coming from it. 
+Protein helps increase your **satiety**, keeping you fuller for longer, promote **muscle repair** and maintain **energy levels**. Many weight loss diets recommend looking for protein on nutrition labels, and choosing foods that have a high portion of their calories coming from it. 
 Having a [diet high in protein](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5644969/?report=reader) has shown to help [mantain lean muscle](https://jissn.biomedcentral.com/articles/10.1186/s12970-015-0100-0) whilst losing excess fat. 
 
 An excellent example is this food label below showing **11gr of protein per 100gr** of yoghurt. 
