@@ -78,19 +78,19 @@ You **do not need** to choose gluten free items as a healthier option. This is *
 **If you’re not suffering from coeliac disease or are gluten intolerant, then you do not need to opt for gluten free foods.** In order to replace gluten in bread, manufacturers often add corn syrup or sugar instead, so be careful, gluten free options might not aid your waist line. 
 
 ### 5.Saturated fats 
-Fats are split into saturated and unsaturated fats. Saturated fats originate from meat and dairy products, whereas unsaturated fats are from plant origin. Food labels list the total fat content together with its saturated portion as a subgroup. Ocassionally some food labels also list [trans fats](https://www.bda.uk.com/resource/fat.html)  - these are usually added in processed and hardened vegetable fats which are used in cakes, biscuits and fast foods to prolong their shelf life. When grocery shopping we should look for foods that are low in saturated fat and trans fats since both types of fats have shown that they contribute to increased risk of heart disease, weight gain and stroke. 
+Fats are split into **saturated and unsaturated** fats. Saturated fats originate from meat and dairy products, whereas unsaturated fats are from plant origin. Food labels list the total fat content together with its saturated portion as a subgroup. Ocassionally some food labels also list [trans fats](https://www.bda.uk.com/resource/fat.html)  - these are usually added in processed and hardened vegetable fats which are used in cakes, biscuits and fast foods to prolong their shelf life. When grocery shopping we should look for foods that are **low in saturated fat and trans fats** since both types of fats have shown that they contribute to increased risk of heart disease, weight gain and stroke. 
 
 The image below shows the nutrition label of unsweetened almond milk; 
 ![Almond Milk]({{ site.baseurl }}/assets/images/blog_images/22_11.png)
 
-As you can see it has a total of 1.4g of fat, of which 0.1g is saturated. This means that the remaining portion is made up of healthy mono and polyunsaturated fats. 
+As you can see it has a total of 1.4g of fat, **of which 0.1g is saturated**. This means that the remaining portion is made up of healthy monounsaturated and polyunsaturated fats. 
 
 The image below shows the nutrition label of a packet of crisps; 
 ![Crisps]({{ site.baseurl }}/assets/images/blog_images/22_10.png)
 
-It has a total of 27g of fat, a third of which (9.4g) is saturated. 
+It has a total of 27g of fat, **a third of which (9.4g) is saturated**. 
 
-As a general rule, the lower the saturated fat portion of the total fats, the higher the monounsaturated and polyunsaturated fats present. Monounsaturated and polyunsaturated fats are healthy fats that help mop up the bad cholesterol in the body and promote healthy arteries. 
+As a general rule, **the lower the saturated fat portion** of the total fats, the higher the monounsaturated and polyunsaturated fats present. **Monounsaturated and polyunsaturated fats are healthy fats** that help mop up the bad cholesterol in the body and promote healthy arteries. 
 
 If a food item contains;
 
