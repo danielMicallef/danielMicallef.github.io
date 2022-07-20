@@ -10,7 +10,7 @@ categories:
   - Nutrition
   - Hydration
   - Snacking
-image: assets/images/blog_images/21_1.png
+image: assets/images/blog_images/21_1.webp
 ---
 Back from 4 days of hiking, an excellent mind and body boost and why not use my own experience to write about hiking nutrition. 
 
@@ -21,7 +21,7 @@ So whether you’re planning your next multi day hike in a national park, or a q
 
 The **more a person weighs**, the **higher the calorie burn**. Hikers typically burn between [**500 to 750 kcals**](https://cdn-links.lww.com/permalink/mss/a/mss_43_8_2011_06_13_ainsworth_202093_sdc1.pdf) per hour of walking, exerting great demands on their body’s energy stores. Because you’re moving at a lower intensity then you would be if cycling or running, you’re more likely to be relying on fat and protein rather than carbohydrates as your fuel source. 
 
- ![Things to consider]({{ site.baseurl }}/assets/images/blog_images/21_2.png)
+ ![Things to consider]({{ site.baseurl }}/assets/images/blog_images/21_2.webp)
 
 Apart from requiring calorie-dense foods, you also need to consider practicality, packability and weight. Moreover, if you’re sleeping in the mountains on multi-day hikes, consider the need to cook dinners. 
 
@@ -46,7 +46,7 @@ Here’s my recommended list for a bulletproof experience up in the mountains;
 6. Small stove (Gas + fitting)
 7. Small garbage bag - Leave no trace! Daniel and I make sure to follow the [Leave No Trace](https://lnt.org/why/7-principles/) principles for minimum impact hiking - make sure to have a look at them before hiking. 
 
-![A Hiker's Diet]({{ site.baseurl }}/assets/images/blog_images/21_3.png)
+![A Hiker's Diet]({{ site.baseurl }}/assets/images/blog_images/21_3.webp)
 
 **Trail mix** 
 A mix of dried fruits and nuts.
@@ -85,4 +85,4 @@ I can not stress enough how important water is when hiking. I once experienced a
 After reading these careful considerations, I can assure you that mountain hiking is the most peaceful and enjoyable experience, it only requires some pre-planning to ensure that you are well-equipped. 
 
 To help you get started with your hiking plan, you can use the layout below for your next hike. Do not hesitate to [contact](/contact) me if you need any further tips regarding hiking and your nutrition strategy. Enjoy! 
-![Things to consider when hiking]({{ site.baseurl }}/assets/images/blog_images/21_4.png)
+![Things to consider when hiking]({{ site.baseurl }}/assets/images/blog_images/21_4.webp)

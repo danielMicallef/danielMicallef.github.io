@@ -68,7 +68,7 @@ The study included 7,447 participants, 55-80 years of age, 57% of which were wom
 
 The experts concluded that those following the Mediterranean diet supplemented with nuts or extra virgin olive oil had approximately 30% lower risk of cardiovascular events when compared to the low-fat group. This showed that the Mediterranean diet together with the beneficial properties of nuts and extra virgin olive oil, had a cardioprotective effect.
 
-![incidence composite cardiovascular end point]({{ site.baseurl }}/assets/images/blog_images/2_2.png)
+![incidence composite cardiovascular end point]({{ site.baseurl }}/assets/images/blog_images/2_2.webp)
 
 In 2015, Dr Miguel A. Martin-Gonzalez and his colleagues, published a [report](https://www.researchgate.net/publication/275896091_Benefits_of_the_Mediterranean_diet_insights_rrom_the_PREDIMED_study) on the benefits of the Mediterranean diet, based on the findings of PREDIMED. They added that the participants following the Mediterranean diet, exhibited a positive effect on blood pressure, blood sugar control, and blood cholesterol and concluded that; 
 
