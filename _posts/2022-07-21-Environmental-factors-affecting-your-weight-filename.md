@@ -24,7 +24,7 @@ But what can we do,  with what we have at the moment? As citizens, lacking the p
 As business managers/CEOs out there, promote to your employees the idea of cycling to work. Instead of paying to park their car, reward your employees with a [cycle to work benefit](https://www.cyclesolutions.info/blog/the-importance-of-cycle-to-work-schemes-for-the-nhs). This will encourage them to cycle instead of drive, reducing traffic and fuel emissions and promoting physical activity. This system is already in place in lots of hospitals and companies across the world. 
 
 2. **Park and Walk** 
-Choose to park further away from your final destination and walk the last 15 minutes, especially when visiting restaurants etc. Introducing some form of physical activity pre/post dinner. 
+Choose to park further away from your final destination and walk the last 15 minutes, especially when visiting restaurants etc., introducing some form of physical activity pre/post dinner. 
 
 3. **Hydrate and Reuse**
 Have a reusable water bottle with you to refill from water stations rather than using disposable plastic bottles. [Installing water filling stations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7085906/) at your place of work/school would also encourage hydration amongst your employees and [possibly lower intake of soft drinks](https://www.cdc.gov/pcd/issues/2014/13_0207.htm). 
