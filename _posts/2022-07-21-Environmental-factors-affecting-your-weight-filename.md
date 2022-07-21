@@ -20,7 +20,7 @@ I was quick to think of the need for more **cycle lanes**, **efficient public tr
 
 But what can we do,  with what we have at the moment? As citizens, lacking the power to implement large scale projects, **what are small tangible changes that we can make to improve our environment at present?**
 
-1. **Promote cycle to work initiatives.**
+1. **Promote cycle to work initiatives**
 As business managers/CEOs out there, promote to your employees the idea of cycling to work. Instead of paying to park their car, reward your employees with a [cycle to work benefit](https://www.cyclesolutions.info/blog/the-importance-of-cycle-to-work-schemes-for-the-nhs). This will encourage them to cycle instead of drive, reducing traffic and fuel emissions and promoting physical activity. This system is already in place in lots of hospitals and companies across the world. 
 
 2. **Park and Walk** 
