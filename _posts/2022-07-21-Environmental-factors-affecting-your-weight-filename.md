@@ -18,7 +18,7 @@ As part of our congress we had various lectures covering sustainability and effo
 
 I was quick to think of the need for more **cycle lanes**, **efficient public transport**, accessibility to **healthy food options at an affordable price** and having more **hydration water filling stations** installed in public areas. These points were all suggested in various strategies published by the [European Commission (2007)](https://ec.europa.eu/health/archive/ph_determinants/life_style/nutrition/documents/nutrition_wp_en.pdf) and [World Health Organisation (2017)](https://publications.iarc.fr/Book-And-Report-Series/Iarc-Working-Group-Reports/Energy-Balance-And-Obesity-2017). All valid points which require the efforts of the state to set up and implement. 
 
-But what can we do,  with what we have at the moment? As citizens, lacking the power to implement, **what are tangible changes that we can make to improve our environment at present?**
+But what can we do,  with what we have at the moment? As citizens, lacking the power to implement large scale projects, **what are tangible changes that we can make to improve our environment at present?**
 
 1. **Promote cycle to work initiatives.**
 As business managers/CEOs out there, promote to your employees the idea of cycling to work. Instead of paying to park their car, reward your employees with a [cycle to work benefit](https://www.cyclesolutions.info/blog/the-importance-of-cycle-to-work-schemes-for-the-nhs). This will encourage them to cycle instead of drive, reducing traffic and fuel emissions and promoting physical activity. This system is already in place in lots of hospitals and companies across the world. 
