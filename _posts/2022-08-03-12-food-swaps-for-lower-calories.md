@@ -31,7 +31,7 @@ Here are my **12 recommendations** for healthier food swaps;
 
 | Crisps      | Homemade popped popcorn |
 | ----------- | ----------- |
-| 487kcal/100gr      | 376/kcal / 100gr |
+| 487kcal/100gr      | 376/kcal/100gr |
 
 ### 2. Softdrinks -> Infused Water
 ![softdrinksvsinfusedwater]({{ site.baseurl }}/assets/images/blog_images/23_2.png)
@@ -39,7 +39,7 @@ Here are my **12 recommendations** for healthier food swaps;
 | Softdrinks     | Infused Water |
 | ----------- | ----------- |
 | 48kcal/100ml      | 0kcal/100ml       |
-| 12gr sugar/100ml   | 0grsugar/100ml        |
+| 12gr sugar/100ml   | 0gr sugar/100ml        |
 
 ### 3. Crackers -> Carrot Sticks
 ![crackersvscarrotsticks]({{ site.baseurl }}/assets/images/blog_images/23_3.png)
@@ -77,14 +77,14 @@ Here are my **12 recommendations** for healthier food swaps;
 
 | Beef mince      | Turkey mince |
 | ----------- | ----------- |
-| 225kcal/100gr      | 130/kcal / 100gr |
+| 225kcal/100gr      | 130/kcal/100gr |
 
 ### 8. Mayo/Store-bought Dips -> Hummus 
 ![mayovshummus]({{ site.baseurl }}/assets/images/blog_images/23_8.png)
 
 | Mayo/ Store-bought Dips on Avg.     | Hummus |
 | ----------- | ----------- |
-| 687kcal/100gr      | 198/kcal / 100gr |
+| 687kcal/100gr      | 198kcal/100gr |
 
 ### 9. Butter -> Applesauce 
 ![buttervsapplesauce]({{ site.baseurl }}/assets/images/blog_images/23_9.png)
@@ -93,7 +93,7 @@ Swap butter in your cake batter with applesauce. As a bonus, applesauce not only
 
 | Butter      | Applesauce |
 | ----------- | ----------- |
-| 745kcal/100gr      | 81/kcal / 100gr |
+| 745kcal/100gr      | 81/kcal/100gr |
 
 ### 10. Doughnut -> Protein Bar 
 ![doughnutvsproteinbar]({{ site.baseurl }}/assets/images/blog_images/23_10.png)
@@ -109,7 +109,7 @@ Check out this link to get yours https://amzn.to/3OWzgNo / https://amzn.to/3SlXj
 ### 11. Juices -> Fresh Fruit 
 ![juicesvsfreshfruit]({{ site.baseurl }}/assets/images/blog_images/23_11.png)
 
-| Store-bought Fruit juice     | Freshly squeezed fruit juice |
+| Store-bought fruit juice     | Freshly squeezed fruit juice |
 | ----------- | ----------- |
 | 47kcal/100ml      |34kcal/100ml       |
 | 9.2gr sugar/100ml   | 7.9gr sugar/100ml        |
