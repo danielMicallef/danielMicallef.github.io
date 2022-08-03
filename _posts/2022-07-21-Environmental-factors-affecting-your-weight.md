@@ -10,7 +10,7 @@ categories:
   - Nutrition
   - Health
   - Lifestyle
-image: assets/images/blog_images/23_1.webp
+image: assets/images/blog_images/23_14.png
 ---
 
 I had the opportunity to attend a work conference in the sunny city of Vienna, brimming with culture, and beautiful aesthetics.
