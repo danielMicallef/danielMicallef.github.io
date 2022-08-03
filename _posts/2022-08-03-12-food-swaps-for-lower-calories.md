@@ -122,4 +122,8 @@ Check out this link to get yours https://amzn.to/3OWzgNo / https://amzn.to/3SlXj
 | 505kcal/100gr     |610kcal/100gr       |
 | 44gr sugar/100gr   | 14gr sugar/100gr        |
 
-Although the swap points towards a higher calorie option, bear in mind that you are more likely to consume a whole chocolate candy bar (approx. 60gr) as opposed to dark chocolate, where one is more likely to have a small square, thus still cosuming far fewer calories. Also notice the huge difference in sugar content, with the chocolate candy bar having **3 times as much sugar** when compared to the same amount of dark chocolate.  
+Although the swap points towards a higher calorie option, bear in mind that you are more likely to consume a whole chocolate candy bar (approx. 60gr) as opposed to dark chocolate, where one is more likely to have a small square, thus still cosuming far fewer calories. Also notice the huge difference in sugar content, with the chocolate candy bar having **3 times as much sugar** when compared to the same amount of dark chocolate.
+
+-----------------------------------------------------------------------------------------------------------
+
+**Go ahead, try these swaps and let me know how it went through my [contact](/contact) page! Would love to hear your feedback! **
