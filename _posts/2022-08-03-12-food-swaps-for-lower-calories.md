@@ -126,4 +126,4 @@ Although the swap points towards a higher calorie option, bear in mind that you 
 
 -----------------------------------------------------------------------------------------------------------
 
-**Go ahead, try these swaps and let me know how it went through my [contact](/contact) page! Would love to hear your feedback! **
+**Go ahead, try these swaps and let me know how it went through my [contact](/contact) page! Would love to hear your feedback!**
