@@ -31,14 +31,14 @@ Here are my **12 recommendations** for healthier food swaps;
 
 | Crisps      	| Homemade popped popcorn |
 | ----------- 	| ----------- |
-| 487kcal/100gr         	|     376/kcal/100gr |
+| 487 kcal/100gr         	|     376 kcal/100gr |
 
 ### 2. Softdrinks -> Infused Water
 ![softdrinksvsinfusedwater]({{ site.baseurl }}/assets/images/blog_images/23_2.png)
 
 | Softdrinks     | Infused Water |
 | ----------- | ----------- |
-| 48kcal/100ml         |       0kcal/100ml       |
+| 48 kcal/100ml         |       0 kcal/100ml       |
 | 12gr sugar/100ml      |     0gr sugar/100ml        |
 
 ### 3. Crackers -> Carrot Sticks
@@ -46,14 +46,14 @@ Here are my **12 recommendations** for healthier food swaps;
 
 | Crackers     | Carrot Sticks |
 | ----------- | ----------- |
-| 497kcal/100gr        |     34kcal/100gr       |
+| 497 kcal/100gr        |     34 kcal/100gr       |
 
 ### 4. Icecream -> Frozen Yoghurt 
 ![icecreamvsfrozenyoghurt]({{ site.baseurl }}/assets/images/blog_images/23_4.png)
 
 | Icecream     | Frozen Yoghurt |
 | ----------- | ----------- |
-| 267kcal/100ml      |  126kcal/100ml       |
+| 267 kcal/100ml      |  126 kcal/100ml       |
 | 22gr sugar/100ml   |   2.5gr sugar/100ml        |
 
 ### 5. Breakfast Cereal -> Oats 
@@ -61,7 +61,7 @@ Here are my **12 recommendations** for healthier food swaps;
 
 | Breakfast Cereal     | Oats |
 | ----------- | ----------- |
-| 376kcal/100gr     |  374kcal/100gr       |
+| 376 kcal/100gr     |  374 kcal/100gr       |
 | 25gr sugar/100gr   |   0.3gr sugar/100gr        |
 
 ### 6. Cocktails -> Wine 
@@ -69,7 +69,7 @@ Here are my **12 recommendations** for healthier food swaps;
 
 | Cocktail on Avg.     | Wine Red/White |
 | ----------- | ----------- |
-| 250kcal/100ml      |75kcal/100ml       |
+| 250 kcal/100ml      |75 kcal/100ml       |
 | 22gr sugar/100ml   |   0.5gr sugar/100ml        |
 
 ### 7. Beef Mince -> Turkey Mince
@@ -77,14 +77,14 @@ Here are my **12 recommendations** for healthier food swaps;
 
 | Beef mince      | Turkey mince |
 | ----------- | ----------- |
-| 225kcal/100gr      |   130/kcal/100gr |
+| 225 kcal/100gr      |   130 kcal/100gr |
 
 ### 8. Mayo/Store-bought Dips -> Hummus 
 ![mayovshummus]({{ site.baseurl }}/assets/images/blog_images/23_8.png)
 
 | Mayo/ Store-bought Dips on Avg.     | Hummus |
 | ----------- | ----------- |
-| 687kcal/100gr      |   198kcal/100gr |
+| 687 kcal/100gr      |   198 kcal/100gr |
 
 ### 9. Butter -> Applesauce 
 ![buttervsapplesauce]({{ site.baseurl }}/assets/images/blog_images/23_9.png)
