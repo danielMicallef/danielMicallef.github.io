@@ -100,7 +100,7 @@ Swap butter in your cake batter with applesauce. As a bonus, applesauce not only
 
 | Doughnut    | Protein bar |
 | ----------- | ----------- |
-| 322kcal/100gr     |  328kcal/100gr       |
+| 322 kcal/100gr     |  328 kcal/100gr       |
 | 20gr sugar/100gr   |   3.4gr sugar/100gr        |
 
 My favourite protein bar is from the Grenade range. It does not only hold the best macro ratio with a whooping 20gr of protein per bar but also tastes great just like a regular chocolate-caramel bar! 
@@ -111,7 +111,7 @@ Check out this link to get yours https://amzn.to/3OWzgNo / https://amzn.to/3SlXj
 
 | Store-bought fruit juice     | Freshly squeezed fruit juice |
 | ----------- | ----------- |
-| 47kcal/100ml      |  34kcal/100ml       |
+| 47 kcal/100ml      |  34 kcal/100ml       |
 | 9.2gr sugar/100ml   |   7.9gr sugar/100ml        |
 
 ### 12. Chocolate Candy Bar -> 85% Dark Chocolate 
@@ -119,7 +119,7 @@ Check out this link to get yours https://amzn.to/3OWzgNo / https://amzn.to/3SlXj
 
 | Regular chocolate candy bar    | 85% dark chocolate |
 | ----------- | ----------- |
-| 505kcal/100gr     |  610kcal/100gr       |
+| 505 kcal/100gr     |  610 kcal/100gr       |
 | 44gr sugar/100gr   |   14gr sugar/100gr        |
 
 Although the swap points towards a higher calorie option, bear in mind that you are more likely to consume a whole chocolate candy bar (approx. 60gr) as opposed to dark chocolate, where one is more likely to have a small square, thus still cosuming far fewer calories. Also notice the huge difference in sugar content, with the chocolate candy bar having **3 times as much sugar** when compared to the same amount of dark chocolate.
