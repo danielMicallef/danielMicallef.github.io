@@ -104,7 +104,8 @@ Swap butter in your cake batter with applesauce. As a bonus, applesauce not only
 | 20gr sugar/100gr   |   3.4gr sugar/100gr        |
 
 My favourite protein bar is from the Grenade range. It does not only hold the best macro ratio with a whooping 20gr of protein per bar but also tastes great just like a regular chocolate-caramel bar! 
-Check out this link to get yours https://amzn.to/3OWzgNo / https://amzn.to/3SlXjbr / https://amzn.to/3zsckA0
+
+Check out this link to get yours [Amazon UK](https://amzn.to/3OWzgNo)/[Amazon DE](https://amzn.to/3SlXjbr)/[Amazon IT](https://amzn.to/3zsckA0)
 
 ### 11. Juices -> Fresh Fruit 
 ![juicesvsfreshfruit]({{ site.baseurl }}/assets/images/blog_images/23_11.webp)
