@@ -9,7 +9,7 @@ categories:
   - Nutrition
   - Sugar
   - Calories
-image: assets/images/blog_images/23_13.png
+image: assets/images/blog_images/23_13.webp
 ---
 ## Swap that -> for THIS! 
 
@@ -27,14 +27,14 @@ Apart from calories, **sugar** similarly merits a watchful eye, primarily becaus
 Here are my **12 recommendations** for healthier food swaps; 
 
 ### 1. Crisps -> Homemade Popcorn 
-![crispsvspopcorn]({{ site.baseurl }}/assets/images/blog_images/23_1.png)
+![crispsvspopcorn]({{ site.baseurl }}/assets/images/blog_images/23_1.webp)
 
 | Crisps      	| Homemade popped popcorn |
 | ----------- 	| ----------- |
 | 487 kcal/100gr         	|     376 kcal/100gr |
 
 ### 2. Softdrinks -> Infused Water
-![softdrinksvsinfusedwater]({{ site.baseurl }}/assets/images/blog_images/23_2.png)
+![softdrinksvsinfusedwater]({{ site.baseurl }}/assets/images/blog_images/23_2.webp)
 
 | Softdrinks     | Infused Water |
 | ----------- | ----------- |
@@ -42,14 +42,14 @@ Here are my **12 recommendations** for healthier food swaps;
 | 12gr sugar/100ml      |     0gr sugar/100ml        |
 
 ### 3. Crackers -> Carrot Sticks
-![crackersvscarrotsticks]({{ site.baseurl }}/assets/images/blog_images/23_3.png)
+![crackersvscarrotsticks]({{ site.baseurl }}/assets/images/blog_images/23_3.webp)
 
 | Crackers     | Carrot Sticks |
 | ----------- | ----------- |
 | 497 kcal/100gr        |     34 kcal/100gr       |
 
 ### 4. Icecream -> Frozen Yoghurt 
-![icecreamvsfrozenyoghurt]({{ site.baseurl }}/assets/images/blog_images/23_4.png)
+![icecreamvsfrozenyoghurt]({{ site.baseurl }}/assets/images/blog_images/23_4.webp)
 
 | Icecream     | Frozen Yoghurt |
 | ----------- | ----------- |
@@ -57,7 +57,7 @@ Here are my **12 recommendations** for healthier food swaps;
 | 22gr sugar/100ml   |   2.5gr sugar/100ml        |
 
 ### 5. Breakfast Cereal -> Oats 
-![breakfastcerealvsoats]({{ site.baseurl }}/assets/images/blog_images/23_5.png)
+![breakfastcerealvsoats]({{ site.baseurl }}/assets/images/blog_images/23_5.webp)
 
 | Breakfast Cereal     | Oats |
 | ----------- | ----------- |
@@ -65,7 +65,7 @@ Here are my **12 recommendations** for healthier food swaps;
 | 25gr sugar/100gr   |   0.3gr sugar/100gr        |
 
 ### 6. Cocktails -> Wine 
-![cocktailsvwine]({{ site.baseurl }}/assets/images/blog_images/23_6.png)
+![cocktailsvwine]({{ site.baseurl }}/assets/images/blog_images/23_6.webp)
 
 | Cocktail on Avg.     | Wine Red/White |
 | ----------- | ----------- |
@@ -73,21 +73,21 @@ Here are my **12 recommendations** for healthier food swaps;
 | 22gr sugar/100ml   |   0.5gr sugar/100ml        |
 
 ### 7. Beef Mince -> Turkey Mince
-![beefmincevsturkeymince]({{ site.baseurl }}/assets/images/blog_images/23_7.png)
+![beefmincevsturkeymince]({{ site.baseurl }}/assets/images/blog_images/23_7.webp)
 
 | Beef mince      | Turkey mince |
 | ----------- | ----------- |
 | 225 kcal/100gr      |   130 kcal/100gr |
 
 ### 8. Mayo/Store-bought Dips -> Hummus 
-![mayovshummus]({{ site.baseurl }}/assets/images/blog_images/23_8.png)
+![mayovshummus]({{ site.baseurl }}/assets/images/blog_images/23_8.webp)
 
 | Mayo/ Store-bought Dips on Avg.     | Hummus |
 | ----------- | ----------- |
 | 687 kcal/100gr      |   198 kcal/100gr |
 
 ### 9. Butter -> Applesauce 
-![buttervsapplesauce]({{ site.baseurl }}/assets/images/blog_images/23_9.png)
+![buttervsapplesauce]({{ site.baseurl }}/assets/images/blog_images/23_9.webp)
 
 Swap butter in your cake batter with applesauce. As a bonus, applesauce not only comes with fewer calories but also natural sweetnees allowing you to reduce the amount of sugar that needs to be added to your batter. 
 
@@ -96,7 +96,7 @@ Swap butter in your cake batter with applesauce. As a bonus, applesauce not only
 | 745kcal/100gr      |   81/kcal/100gr |
 
 ### 10. Doughnut -> Protein Bar 
-![doughnutvsproteinbar]({{ site.baseurl }}/assets/images/blog_images/23_10.png)
+![doughnutvsproteinbar]({{ site.baseurl }}/assets/images/blog_images/23_10.webp)
 
 | Doughnut    | Protein bar |
 | ----------- | ----------- |
@@ -107,7 +107,7 @@ My favourite protein bar is from the Grenade range. It does not only hold the be
 Check out this link to get yours https://amzn.to/3OWzgNo / https://amzn.to/3SlXjbr / https://amzn.to/3zsckA0
 
 ### 11. Juices -> Fresh Fruit 
-![juicesvsfreshfruit]({{ site.baseurl }}/assets/images/blog_images/23_11.png)
+![juicesvsfreshfruit]({{ site.baseurl }}/assets/images/blog_images/23_11.webp)
 
 | Store-bought fruit juice     | Freshly squeezed fruit juice |
 | ----------- | ----------- |
@@ -115,7 +115,7 @@ Check out this link to get yours https://amzn.to/3OWzgNo / https://amzn.to/3SlXj
 | 9.2gr sugar/100ml   |   7.9gr sugar/100ml        |
 
 ### 12. Chocolate Candy Bar -> 85% Dark Chocolate 
-![chocolatecandybarvsdarkchocolate]({{ site.baseurl }}/assets/images/blog_images/23_12.png)
+![chocolatecandybarvsdarkchocolate]({{ site.baseurl }}/assets/images/blog_images/23_12.webp)
 
 | Regular chocolate candy bar    | 85% dark chocolate |
 | ----------- | ----------- |

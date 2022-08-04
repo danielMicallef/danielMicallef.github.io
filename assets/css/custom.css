@@ -3,4 +3,7 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-body {}
+body table {
+	border-collapse: separate;
+	border-spacing: 1rem 0.2rem;
+}
