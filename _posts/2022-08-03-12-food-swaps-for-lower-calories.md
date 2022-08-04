@@ -31,15 +31,15 @@ Here are my **12 recommendations** for healthier food swaps;
 
 | Crisps      | Homemade popped popcorn |
 | ----------- | ----------- |
-| 487kcal/100gr      |   376/kcal/100gr |
+| 487kcal/100gr       |   376/kcal/100gr |
 
 ### 2. Softdrinks -> Infused Water
 ![softdrinksvsinfusedwater]({{ site.baseurl }}/assets/images/blog_images/23_2.png)
 
 | Softdrinks     | Infused Water |
 | ----------- | ----------- |
-| 48kcal/100ml      |   0kcal/100ml       |
-| 12gr sugar/100ml   |   0gr sugar/100ml        |
+| 48kcal/100ml       |   0kcal/100ml       |
+| 12gr sugar/100ml    |   0gr sugar/100ml        |
 
 ### 3. Crackers -> Carrot Sticks
 ![crackersvscarrotsticks]({{ site.baseurl }}/assets/images/blog_images/23_3.png)
