@@ -21,6 +21,10 @@ Rebecca is a Sports Nutritionist, with an M.Sc in Exercise and Nutrition Science
 - [Environmental Factors Affecting Your Weight](https://rebmdsportsnutrition.com/Environmental-factors-affecting-your-weight/)
 - [Swap that for this!](https://rebmdsportsnutrition.com/12-food-swaps-for-lower-calories/)
 
+### Find by category
+
+[Categories](https://rebmdsportsnutrition.com/categories/)
+
 
 
 
