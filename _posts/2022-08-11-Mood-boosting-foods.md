@@ -22,31 +22,38 @@ Ongoing trials are looking at the impact of different diets on mood. The [AMMEND
 After looking at various trials, I broke down the individual foods that research is currently recommending to boost our serotonin levels. Here's what I found; 
 
 
-**Nuts and  Seeds** 
+### **Nuts and  Seeds**
+
 Particularly flaxseeds, chia seeds, pumpkin seeds, cashews, pistachios, walnuts and almonds. A [2019 study](https://www.mdpi.com/2072-6643/11/2/275/htm) looked at the benefits of walnuts in particular. They analyzed data from the NHANES study to correlate walnut consumption with depression scores, and found significantly lower depression scores in walnut consumers as opposed to non-nut consumers. Have a look at one of my [previous articles](https://rebmdsportsnutrition.com/secret-to-healthy-heart-blood-vessels/) about the overall benefits of nuts. 
 ![nuts]({{ site.baseurl }}/assets/images/blog_images/24_1.png)
 
-**Eggs**
+### **Eggs**
+
 [Research](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/chronic-treatment-with-a-tryptophanrich-protein-hydrolysate-improves-emotional-processing-mental-energy-levels-and-reaction-time-in-middleaged-women/AB54DC8C47AF5C589B87EDD30B382386) published in 2015 showed that supplementing women aged 45-65 with egg protein significantly improved  their emotional state due to the high levels of tryptophan found in egg protein. 
 ![eggs]({{ site.baseurl }}/assets/images/blog_images/24_2.png)
 
-**Dairy** 
+### **Dairy**
+
 Milk, cheese and yoghurt contain **alpha-lactalbumin**, a naturally occurring whey protein containing lots of amino acids including tryptophan.
 ![dairy]({{ site.baseurl }}/assets/images/blog_images/24_3.png)
 
-**Tofu** 
+### **Tofu**
+
 Ideal for vegetarians/ vegans as a great source of protein, tofu contains tryptophan, [iron](https://rebmdsportsnutrition.com/how-to-add-iron/) and soy isoflavones. Isoflavones are type of phytoestrogens that have been studied for their [beneficial effects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181104/) in alleviating menopausal symptoms as well as depression. 
 ![tofu]({{ site.baseurl }}/assets/images/blog_images/24_4.png)
 
-**Fatty fish eg. Salmon**
+### **Fatty fish eg. Salmon**
+
 High in Omega 3s and tryptophan. [Clinical trials](https://www.health.harvard.edu/blog/omega-3-fatty-acids-for-mood-disorders-2018080314414#:~:text=How%20might%20omega%2D3s%20improve,that%20may%20help%20relieve%20depression.) looking at the effect of dosing with **DHA and EPA** (both are types of Omega 3s) have shown improved depressive symptoms. To give you a better picture, a gram of DHA+EPA is equal to 3 salmon meals per week. 
 ![Salmon]({{ site.baseurl }}/assets/images/blog_images/24_5.png)
 
-**Leafy greens**
+### **Leafy greens**
+
 Spinach is high in tryptophan,[iron](https://rebmdsportsnutrition.com/how-to-add-iron/) and folate. **Folate** is needed to help **synthesise neurotransmitters** that are needed for optimal brain function. People suffering from depression have often been found to have folate deficiency. [Trials](https://www.sciencedirect.com/science/article/pii/S0965229921001114) are looking at supplementing people on antidepressants with folic acid. 
 ![greens]({{ site.baseurl }}/assets/images/blog_images/24_6.png)
 
-**Oatmeal**
+### **Oatmeal**
+
 The iron and tryptophan levels in oatmeal have shown to help minimise the risk of anaemia and boost serotonin levels. Oatmeal is a complex carb, meaning that it will be metabolised slowly, releasing sugars steadily without provoking blood sugar spikes. Blood sugar stabilisation therefore helps to prevent mood swings and symptoms of depression. 
 ![oats]({{ site.baseurl }}/assets/images/blog_images/24_7.png)
 
