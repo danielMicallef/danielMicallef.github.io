@@ -1,9 +1,9 @@
 ---
-published: false
+published: True
 layout: post
 author: rebecca
 subtitles:
-  - 7 Mood Boosting Foods to increase your Serotonin
+  - SEVEN Mood Boosting Foods to increase your Serotonin
 categories:
   - Mood Boosting
   - Nutrition
