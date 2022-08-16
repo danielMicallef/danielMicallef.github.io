@@ -59,4 +59,5 @@ The iron and tryptophan levels in oatmeal have shown to help minimise the risk o
 
 Munch on these mood boosting foods whilst watching your newscast/feed tonight, you’ll make sure to keep your mood elevated and calorie count low ;)
 
-**AUTHOR'S RECOMMENDED READ**: **Brain food by Lisa Mosconi**, is a book I highly recommend reading to increase your knowledge on how our diet can help increase our cognitive power and lighten our moods. The writer is a neuroscientist as well as a nutritionist, best of both worlds nicely presented in one book. Here is the link to the book: [BRAIN FOOD: THE SURPRISING SCIENCE OF EATING FOR COGNITIVE POWER BY LISA MOSCONI, PH.D](https://tidd.ly/3zZ8cYn)
+**AUTHOR'S RECOMMENDED READ**
+**Brain food by Lisa Mosconi**, is a book I highly recommend to increase your knowledge on how our diet can help increase our cognitive power and lighten our moods. The writer is a neuroscientist as well as a nutritionist, best of both worlds nicely presented in one book. Here is the link to the book: [BRAIN FOOD: THE SURPRISING SCIENCE OF EATING FOR COGNITIVE POWER BY LISA MOSCONI, PH.D](https://tidd.ly/3zZ8cYn)
