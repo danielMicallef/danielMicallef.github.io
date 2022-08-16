@@ -1,5 +1,5 @@
 ---
-published: True
+published: true
 layout: post
 author: rebecca
 subtitles:
@@ -13,8 +13,6 @@ categories:
   - Depression
 image: assets/images/blog_images/24_8.png
 ---
-## Mood Boosting Foods 
-
 We all know that the food we eat has a huge impact on our physical health, but we are now starting to realise that it also **impacts our mental health**. 
 
 Anxiety and depression rates are at a serious worrying incline. We just got out of a pandemic, our media is inundated with global warming, economic recession and war. Does this make you want to comfort eat? Yes, me too. But, think again,  research in food science has shown that certain types of foods that are high in **tryptophan**, can help [boost our serotonin](https://www.mdpi.com/2072-6643/8/1/56/htm)  (the HAPPY hormone) minimising depressive symptoms. Tryptophan is an amino-acid that is required for the build up of serotonin. 
@@ -56,5 +54,3 @@ The iron and tryptophan levels in oatmeal have shown to help minimise the risk o
 Munch on these mood boosting foods whilst watching your newscast/feed tonight, you’ll make sure to keep your mood elevated and calorie count low ;)
 
 **AUTHOR'S RECOMMENDED READ**: **Brain food by Lisa Mosconi**, is a book I highly recommend reading to increase your knowledge on how our diet can help increase our cognitive power and lighten our moods. The writer is a neuroscientist as well as a nutritionist, best of both worlds nicely presented in one book. Here is the link to the book: [BRAIN FOOD: THE SURPRISING SCIENCE OF EATING FOR COGNITIVE POWER BY LISA MOSCONI, PH.D](https://tidd.ly/3zZ8cYn)
-
-
