@@ -3,7 +3,7 @@ published: true
 layout: post
 author: rebecca
 subtitles:
-  - Ever wondered which fuel your body needs in order to perform work?
+  - Carbs, protein or fat? 
 categories:
   - Sports Nutrition
   - Exercise
