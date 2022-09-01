@@ -3,7 +3,7 @@ published: true
 layout: post
 author: rebecca
 subtitles:
-  - Carbs, protein or fat? 
+  - 'Carbs, protein or fat?'
 categories:
   - Sports Nutrition
   - Exercise
@@ -74,4 +74,4 @@ Mid workout (if longer than 2 hours); Banana/ dried fruits/ sports gels/ sports 
 
 Post workout; tuna salad with wholegrain rice/ chicken & veg/ Salmon, rice & veg/ omelette & avocado toast/ lentil pasta. 
 
-To read more on sports nutrition,  I recommend an excellent book by researcher & sports dietitian Louise Burke, click on the link to check it out ---> https://tidd.ly/3R8CeQV 
+To read more on sports nutrition,  I recommend an excellent book by researcher & sports dietitian Louise Burke, click on the link to check it out ---> [https://tidd.ly/3R8CeQV](https://tidd.ly/3R8CeQV )
