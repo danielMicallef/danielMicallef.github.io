@@ -75,4 +75,6 @@ Mid workout (if longer than 2 hours); Banana/ dried fruits/ sports gels/ sports 
 
 Post workout; tuna salad with wholegrain rice/ chicken & veg/ Salmon, rice & veg/ omelette & avocado toast/ lentil/chickpea pasta. 
 
+[The Complete Guide to Food for Sports Performance : Peak nutrition for your sport](https://tidd.ly/3R8CeQV) by researcher and sports dietitian Louise Burke is an excellent read on Sports Nutrition. Check it out ! 
+
 To read more on sports nutrition,  I recommend an excellent book by researcher & sports dietitian Louise Burke, click on the link to check it out ---> [https://tidd.ly/3R8CeQV](https://tidd.ly/3R8CeQV )
