@@ -69,10 +69,10 @@ This however, does not warrant the need to stock up on fat prior to a marathon, 
 
 ### Recommended Pre/Mid/Post workout Meals
 
-Pre workout; wholegrain toast with peanut butter and banana/ chicken with rice/ greek yoghurt with chia seeds/ oats and berries. 
+Pre workout; wholegrain toast with peanut butter and banana/ chicken with rice/ greek yoghurt with chia seeds, oats and berries. 
 
 Mid workout (if longer than 2 hours); Banana/ dried fruits/ sports gels/ sports drinks/ gummy bears/ honey
 
-Post workout; tuna salad with wholegrain rice/ chicken & veg/ Salmon, rice & veg/ omelette & avocado toast/ lentil pasta. 
+Post workout; tuna salad with wholegrain rice/ chicken & veg/ Salmon, rice & veg/ omelette & avocado toast/ lentil/chickpea pasta. 
 
 To read more on sports nutrition,  I recommend an excellent book by researcher & sports dietitian Louise Burke, click on the link to check it out ---> [https://tidd.ly/3R8CeQV](https://tidd.ly/3R8CeQV )
