@@ -49,7 +49,7 @@ Example. 70kg male athlete = 420-700g daily.
 The most hyped up macronutrient amongst athletes is protein. This is because protein is important for athletes to preserve their muscle mass. **Endurance and strength** athletes benefit the most from adequate protein intake, due to their need for muscle build up. 
 Recommendations suggest [**1-1.8g protein/kg of bodyweight**](https://www.researchgate.net/publication/297695609_Nutrition_and_Athletic_Performance) daily.
 
-Eg. 70kg male athlete = 70-126g daily. 
+Example. 70kg male athlete = 70-126g daily. 
 
 This ammount can in the majority of cases be supplemented through **diet alone**, without the need for added supplements. However, if the body lacks adequate daily energy intake (calories) to maintain its body weight, the body won’t be able to make optimal use of protein for muscle build-up, and will instead use it to produce energy. 
 
