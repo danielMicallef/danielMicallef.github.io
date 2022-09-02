@@ -34,10 +34,11 @@ Are the primary source of fuel when an individual is working at a [high intensit
 ![exercise intensity]({{ site.baseurl }}/assets/images/blog_images/25_3.png)
 
 The ammount of carbohydrates needed is dependent on;
--sex of the athlete
--sport demands
--total daily energy expenditure 
--environmental training conditions (cold, hot, humid) 
+- sex of the athlete
+- sport demands
+- total daily energy expenditure 
+- environmental training conditions (cold, hot, humid)
+
 
 The Nutrition and Athletic Performance position statement (2016) recommended an intake of [**6-10g carbs/kg of bodyweight**](https://www.researchgate.net/publication/297695609_Nutrition_and_Athletic_Performance) daily to support training demands - adding up to **50-60% of total caloric intake**.
 
