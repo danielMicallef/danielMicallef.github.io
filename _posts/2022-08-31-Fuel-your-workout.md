@@ -40,7 +40,7 @@ The ammount of carbohydrates needed is dependent on;
 - environmental training conditions (cold, hot, humid)
 
 
-The Nutrition and Athletic Performance position statement (2016) recommended an intake of [**6-10g carbs/kg of bodyweight**](https://www.researchgate.net/publication/297695609_Nutrition_and_Athletic_Performance) daily to support training demands - adding up to **50-60% of total caloric intake**.
+The Nutrition and Athletic Performance position statement (2016) recommends an intake of [**6-10g carbs/kg of bodyweight**](https://www.researchgate.net/publication/297695609_Nutrition_and_Athletic_Performance) daily to support training demands - adding up to **50-60% of total caloric intake**.
 
 Example. 70kg male athlete = 420-700g daily.
 
