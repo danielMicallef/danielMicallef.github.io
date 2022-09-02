@@ -6,8 +6,8 @@ subtitles:
   - 'Carbs, protein or fat?'
 categories:
   - Sports Nutrition
-  - Exercise
-  - Athletes
+  - Strength Training
+  - Endurance Training
   - Macronutrients
   - Carbohydrates
   - Fat
