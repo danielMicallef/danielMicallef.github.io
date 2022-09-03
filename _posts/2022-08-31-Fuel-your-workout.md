@@ -23,9 +23,9 @@ The type of energy required highly depends on the **intensity and duration** at 
 
 ![training muscle glycogen]({{ site.baseurl }}/assets/images/blog_images/25_2.png)
 
-To give you a picture, an athlete would start training with full muscle glycogen stores, after 2 hours of intense training, these would [reduce by half](https://europepmc.org/article/pmc/pmc6019055), simple carb intake is recommended for him/her to continue performing optimally. 
+To give you a picture, an athlete would start training with full muscle glycogen stores, after 2 hours of intense training, these would [reduce by half](https://europepmc.org/article/pmc/pmc6019055). Simple carb intake is recommended for him/her to continue performing optimally. 
 
-_The type of fuel used, highly depends on the intensity and time of exercise._
+_The type of fuel used, highly depends on the intensity and duration of exercise._
 
 ### Carbohydrates
 
@@ -75,4 +75,4 @@ Mid workout (if longer than 2 hours); Banana/ dried fruits/ sports gels/ sports 
 
 Post workout; tuna salad with wholegrain rice/ chicken & veg/ Salmon, rice & veg/ omelette & avocado toast/ lentil/chickpea pasta. 
 
-[The Complete Guide to Food for Sports Performance : Peak nutrition for your sport](https://tidd.ly/3R8CeQV) by researcher and sports dietitian Louise Burke is an excellent read on Sports Nutrition. Check it out ! 
+[The Complete Guide to Food for Sports Performance : Peak nutrition for your sport](https://tidd.ly/3R8CeQV) by researcher and sports dietitian Louise Burke is an excellent read on Sports Nutrition. Check it out !
