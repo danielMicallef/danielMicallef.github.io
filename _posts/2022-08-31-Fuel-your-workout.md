@@ -33,7 +33,7 @@ Are the primary source of fuel when an individual is working at a [high intensit
 
 ![exercise intensity]({{ site.baseurl }}/assets/images/blog_images/25_3.png)
 
-The ammount of carbohydrates needed is dependent on;
+The amount of carbohydrates needed is dependent on;
 - sex of the athlete
 - sport demands
 - total daily energy expenditure 
@@ -51,7 +51,7 @@ Recommendations suggest [**1-1.8g protein/kg of bodyweight**](https://www.resear
 
 Example. 70kg male athlete = 70-126g daily. 
 
-This ammount can in the majority of cases be supplemented through **diet alone**, without the need for added supplements. However, if the body lacks adequate daily energy intake (calories) to maintain its body weight, the body won’t be able to make optimal use of protein for muscle build-up, and will instead use it to produce energy. 
+This amount can in the majority of cases be supplemented through **diet alone**, without the need for added supplements. However, if the body lacks adequate daily energy intake (calories) to maintain its body weight, the body won’t be able to make optimal use of protein for muscle build-up, and will instead use it to produce energy. 
 
 ### Fat
 
