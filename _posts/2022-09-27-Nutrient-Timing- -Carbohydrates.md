@@ -26,7 +26,7 @@ Recommendations; 5-12g/kg/day / 8-10g/kg/day (for those training >/=12hr weekly 
 ![endurance training]({{ site.baseurl }}/assets/images/blog_images/26_3.png)
 
 # Pre-Exercise
-Consequently, before starting heavy bouts of exercise, a concept of **carb loading** is recommended. Glycogen stores can only last a few hours, and as they diminish, **output diminishes**, and **muscle breakdown** and **immunosuppression** ensues. Research has shown that athletes that have been properly loaded with carbs prior to training/competitions had [higher post exercise glucose levels] (https://pubmed.ncbi.nlm.nih.gov/7333741/) when compared to those that started their training in a low carb state. 
+Consequently, before starting heavy bouts of exercise, a concept of **carb loading** is recommended. Glycogen stores can only last a few hours, and as they diminish, **output diminishes**, and **muscle breakdown** and **immunosuppression** ensues. Research has shown that athletes that have been properly loaded with carbs prior to training/competitions had [higher post exercise glucose levels](https://pubmed.ncbi.nlm.nih.gov/7333741/) when compared to those that started their training in a low carb state. 
 
 _Recommended_;1-4g/kg 3-4 hours before starting high intensity training 
 
