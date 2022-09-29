@@ -1,8 +1,18 @@
 ---
 published: false
+layout: post
+author: rebecca
+subtitles:
+  - Timing your Macros
+categories:
+  - Sports Nutrition
+  - Strength Training
+  - Endurance Training
+  - Macronutrients
+  - Carbohydrates
+  - Nutrient Timing
+image: assets/images/blog_images/26_1.png
 ---
-## Timing your macros
-
 We established the type of fuel needed, **CHECK** :) 
 One question remains… **When should we refuel??!**
 In my last [post](https://rebmdsportsnutrition.com/Fuel-your-workout/), we went over the right nutrient for the right exercise intensity. So now we must tackle **the right nutrient at the right TIMING**. 
@@ -59,9 +69,3 @@ Ingesting protein together with carbs has shown increases in strength and retent
 **Stay tuned !** 
 
 **_For Pre/Mid/Post workout meal examples, check out one of my previous posts - [Fuel your Workout](https://rebmdsportsnutrition.com/Fuel-your-workout/)! _**
-
-
-
-
-
-
