@@ -21,7 +21,8 @@ Nutrient timing is a very important subject for athletes. Failing to refuel at t
 
 ## Carbs
 For moderate to high intensity endurance (65-80% VO₂max) and resistance (3-4Sets, 6-20RM loads) workouts, the body relies on carbohydrates as a fuel source. 
-Recommendations; 5-12g/kg/day / 8-10g/kg/day (for those training >/=12hr weekly at >/= 70%VO₂max) 
+
+As a general rule, national statements recommend; 5-12g/kg/day / 8-10g/kg/day (for those training >/=12hr weekly at >/= 70%VO₂max) 
 
 ![endurance training]({{ site.baseurl }}/assets/images/blog_images/26_3.png)
 
