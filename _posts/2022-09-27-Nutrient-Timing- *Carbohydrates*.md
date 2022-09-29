@@ -49,7 +49,7 @@ What type of carb during exercise?
 # Post Exercise
 The famous **30min carb window** post workout! 
 
-_Muscle Glycogen Resynthesis Post Workout (Repost @Jeukendrup / mysportscience.com _
+_Muscle Glycogen Resynthesis Post Workout (Repost @Jeukendrup / mysportscience.com_
 ![Muscle Glycogen Resynthesis]({{ site.baseurl }}/assets/images/blog_images/26_2.png)
 
 In an [early study](https://pubmed.ncbi.nlm.nih.gov/9694422/) about this topic, evidence showed that muscle glycogen replenishment was **50% faster** when a carb ingestion was done **immediately (within 30mins)** post exercise, versus waiting for 2hours to refeed. 
