@@ -17,7 +17,7 @@ We established the type of fuel needed, **CHECK** :)
 One question remains… **When should we refuel??!**
 In my last [post](https://rebmdsportsnutrition.com/Fuel-your-workout/), we went over the right nutrient for the right exercise intensity. So now we must tackle **the right nutrient at the right TIMING**. 
 
-Nutrient timing is a very important subject for athletes. Failing to refuel at the right time, just like driving your car, will leave you without energy to perform. Here is my breakdown, in line with [national sports position statements](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4), suggesting pre/during and post exercise nutrition timing. Today I will be focusing only on Carbs, and will be tackling protein and creatine in seperate posts (so stay tuned!) 
+Nutrient timing is a very important subject for athletes. Failing to refuel at the right time, just like driving your car, will leave you without energy to perform. Here is my breakdown, in line with [national sports position statements](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4), suggesting pre/during and post exercise nutrition. Today I will be focusing only on Carbs, and will tackle protein and creatine in seperate posts (so stay tuned!) 
 
 ## Carbs
 For moderate to high intensity endurance (65-80% VO₂max) and resistance (3-4Sets, 6-20RM loads) workouts, the body relies on carbohydrates as a fuel source. 
@@ -34,7 +34,7 @@ _Recommended_;1-4g/kg 3-4 hours before starting high intensity training
 # During Exercise
 The aim of nutrient intake during exercise is to maintain blood glucose levels. This is particularly useful for endurance athletes that need to sustain their output over a longer period of time. 
 
-An [Australian research study](https://pubmed.ncbi.nlm.nih.gov/10484580/), had 8 highly trained cyclist train at 70%VO₂max until fatigue. Half of the participants were given a placebo, the other half 8%carb solution during exercise. Those that had the carb solution, cycled for an avg. of 47mins longer than the other half until they got too fatigued to continue. 
+An [Australian research study](https://pubmed.ncbi.nlm.nih.gov/10484580/), had 8 highly trained cyclist train at 70%VO₂max until fatigue. Half of the participants were given a placebo, the other half 8%carb solution during exercise. Those that had the carb solution, cycled for an avg. of 47mins longer than the other cohort, until they got too fatigued to continue. 
 
 When exercising for more than an hour, the intake of carbs becomes more important to maintain peak performance. It is recommended that 30-60g of carbs are ingested each hour, coupled with hydration, to maintain blood glucose levels. 
 
