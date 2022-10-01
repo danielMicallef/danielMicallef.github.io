@@ -65,8 +65,8 @@ Post-exercise carb consumption is particularly important **when recovery time is
 
 As for resistance athletes, **protein** gains more importance in post exercise nutrition, coupled with the recommended carb intake in the following amounts **0.2g-0.5g/kg  protein + 0.6-1.2g/kg carbs**, further boosts mucscle glycogen resynthesis. 
 
-Ingesting protein together with carbs has shown increases in strength and retention of lean muscle mass, but I will leave the topic of protein timing for another post, as lots of research is out there and merits its own attention. 
+Ingesting protein together with carbs has shown increases in strength and retention of lean muscle mass, but I will leave the topic of protein timing for another post, as lots of research is out there and merits it's own attention. 
 
 **Stay tuned !** 
 
-**_For Pre/Mid/Post workout meal examples, check out one of my previous posts - [Fuel your Workout](https://rebmdsportsnutrition.com/Fuel-your-workout/)! _**
+**_For Pre/Mid/Post workout meal examples, check out one of my previous posts - [Fuel your Workout](https://rebmdsportsnutrition.com/Fuel-your-workout/)!_**
