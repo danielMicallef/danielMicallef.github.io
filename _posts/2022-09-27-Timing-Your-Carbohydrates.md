@@ -34,7 +34,7 @@ _Recommended_;1-4g/kg 3-4 hours before starting high intensity training
 # During Exercise
 The aim of nutrient intake during exercise is to maintain blood glucose levels. This is particularly useful for endurance athletes that need to sustain their output over a longer period of time. 
 
-An [Australian research study](https://pubmed.ncbi.nlm.nih.gov/10484580/), had 8 highly trained cyclist train at 70%VO₂max until fatigue. Half of the participants were given a placebo, the other half 8%carb solution during exercise. Those that had the carb solution, cycled for an avg. of 47mins longer than the other cohort, until they got too fatigued to continue. 
+An [Australian research study](https://pubmed.ncbi.nlm.nih.gov/10484580/), had 8 highly trained cyclists train at 70%VO₂max until fatigue. Half of the participants were given a placebo, the other half 8%carb solution during exercise. Those that had the carb solution, cycled for an avg. of 47mins longer than the other cohort, until they got too fatigued to continue. 
 
 When exercising for more than an hour, the intake of carbs becomes more important to maintain peak performance. It is recommended that 30-60g of carbs are ingested each hour, coupled with hydration, to maintain blood glucose levels. 
 
@@ -42,7 +42,7 @@ _Recommended_; 30-60g / hour, 250-350ml of a 6-8% carb-electrolyte solution, eve
 
 Sports drinks tend to provide the ideal solution since they would also contain potassium and sodium for **fluid-electrolyte** balance. 
 
-For resistance athletes, carb intake during exercise is less researched, however [national position statements](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4) recommend that those working at 3-6sets of 8-12RM using multiple major muscle groups consume carbs during their training to promote muscle glycogen replenishment and reduce muscle damage.
+For resistance athletes, carb intake during exercise is less researched, however [national position statements](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4) recommend that those working at 3-6sets of 8-12RM using multiple major muscle groups, consume carbs during their training to promote muscle glycogen replenishment and reduce muscle damage.
 
 What type of carb during exercise? 
 **Glucose, sucrose, maltodextrin** and fructose can be used in a combined solution - however [fructose in large amounts](https://europepmc.org/article/med/582616) can cause issues with digestion.
