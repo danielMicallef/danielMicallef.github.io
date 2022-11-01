@@ -30,4 +30,4 @@ Phase 1. In the 30min window, the body requires primarily carbs to maximise musc
 
 Phase 2. At up to 3 hours post workout ingestion of essential amino acids (protein) with a portion of carbs helps boost muscle protein synthesis. This [combination of carbs + protein](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5596471/) post workout has shown great body composition and strength improvements for resistance athletes when compared to other control groups consuming carbs only. 
 
-For resistance training adaptations, creatine supplementation also deserves a mention. Studies have shown that groups supplementing with protein + creatine + carbs post workout have shown greater gains in lean muscle mass, maximising training adaptations.
+For resistance training adaptations, creatine supplementation also deserves a mention. Studies have shown that groups supplementing with [protein + creatine + carbs](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z) post workout have shown greater gains in lean muscle mass, maximising training adaptations.
