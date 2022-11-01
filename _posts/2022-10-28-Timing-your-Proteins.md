@@ -13,7 +13,7 @@ categories:
   - Nutrient Timing
 image: assets/images/blog_images/27_5.png
 ---
-## A New Post
+
 
 As a continuation to my last post on [carb timing](https://rebmdsportsnutrition.com/Timing-Your-Carbohydrates/), today we will shift our focus on protein timing.  
 
