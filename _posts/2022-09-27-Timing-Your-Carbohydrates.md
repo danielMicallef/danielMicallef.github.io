@@ -11,7 +11,7 @@ categories:
   - Macronutrients
   - Carbohydrates
   - Nutrient Timing
-image: assets/images/blog_images/26_1.png
+image: assets/images/blog_images/27_6.png
 ---
 We established the type of fuel needed, **CHECK** :) 
 One question remains… **When should we refuel??!**
