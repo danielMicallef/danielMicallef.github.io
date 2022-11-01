@@ -17,13 +17,13 @@ image: assets/images/blog_images/27_5.png
 
 As a continuation to my last post on [carb timing](https://rebmdsportsnutrition.com/Timing-Your-Carbohydrates/), today we will shift our focus on protein timing.  
 
-Lots of socials hype up protein through a series of high protein merchandise. It' true that both endurance and strength athletes benefit a lot from maximising their protein intake as explained in one of my previous [posts](https://rebmdsportsnutrition.com/Fuel-your-workout/), however there are particular instances where our body requires it most, and it would benefit athletes to know when to eat their proteins to maximise its benefits.
+Lots of socials hype up protein through a series of high protein merchandise. It's true that both endurance and strength athletes benefit a lot from maximising their protein intake as explained in one of my previous [posts](https://rebmdsportsnutrition.com/Fuel-your-workout/), however there are particular instances where our body requires it most, and it would benefit athletes to know when to eat their proteins to maximise its benefits.
 
 ![Pro sources]({{ site.baseurl }}/assets/images/blog_images/27_3.png)
 
 ### Pre-exercise
 
-Pre exercise protein intake has shown significant differences in muscle breakdown vs synthesis after exercise, resulting in a reduction in net muscle loss. This means that ingesting proteins prior to exercising helps to icnrease strength and retain lean muscle mass.
+Pre exercise protein intake has shown significant differences in muscle breakdown vs synthesis after exercise, resulting in a reduction in net muscle loss. This means that ingesting proteins prior to exercising helps to increase strength and retain lean muscle mass.
 
 ![MBSvsMPS]({{ site.baseurl }}/assets/images/blog_images/27_4.png)
 
