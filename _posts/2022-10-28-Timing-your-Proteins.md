@@ -42,7 +42,7 @@ However, protein intake during exercise needs to be ingested in smaller ratios w
 
 The post exercise window is split into two phases; the 30min carb window and the remaining hours that follow. Both phases need to be tackled differently when it comes to nutrition. 
 
-![MBSvsMPS]({{ site.baseurl }}/assets/images/blog_images/27_2(2).png)
+![MPS]({{ site.baseurl }}/assets/images/blog_images/27_2 (2).png)
 
 Phase 1. In the 30min window, the body requires primarily carbs to maximise muscle glycogen replenishment. However the addition of protein [**(0.2g-0.5g /kg body weight)**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5596471/) further boosts muscle glycogen (body's energy stores) resynthesis. 
 
