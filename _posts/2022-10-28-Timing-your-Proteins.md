@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: rebecca
 subtitles:
@@ -9,7 +9,7 @@ categories:
   - Strength Training
   - Endurance Training
   - Macronutrients
-  - Carbohydrates
+  - Protein
   - Nutrient Timing
 image: assets/images/blog_images/27_5.png
 ---
