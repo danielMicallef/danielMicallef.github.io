@@ -46,6 +46,10 @@ The post exercise window is split into two phases; the 30min carb window and the
 
 Phase 1. In the 30min window, the body requires primarily carbs to maximise muscle glycogen replenishment. However the addition of protein [**(0.2g-0.5g /kg body weight)**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5596471/) further boosts muscle glycogen (body's energy stores) resynthesis. 
 
-Phase 2. At up to 3 hours post workout ingestion of essential amino acids (protein) with a portion of carbs helps boost muscle protein synthesis. This [combination of carbs + protein](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5596471/) post workout has shown great body composition and strength improvements for resistance athletes when compared to other control groups consuming carbs only. 
+Phase 2. At up to 3 hours post workout, ingestion of essential amino acids (protein) with a small portion of carbs helps boost muscle protein synthesis. This [combination of carbs + protein](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5596471/) post workout has shown great body composition and strength improvements for resistance athletes when compared to other control groups consuming carbs only. In this phase however, greater importance is given to the portion of protein.
+
+A **20–40-g dose of protein**
+is recommended post workout to maximize muscle build up for
+three to four hours following exercise.
 
 For resistance training adaptations, creatine supplementation also deserves a mention. Studies have shown that groups supplementing with [protein + creatine + carbs](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z) post workout have shown greater gains in lean muscle mass, maximising training adaptations.
