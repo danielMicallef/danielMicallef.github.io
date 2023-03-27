@@ -6,6 +6,7 @@ permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 formspree_contact: 'https://formspree.io/f/xnqwlpnr'
+formspree_client_profile: 'https://formspree.io/f/mlekldnj'
 author: Rebecca Micallef Dalli
 paginate: 30
 disqus: 'rebmdsportsnutrition-com'
